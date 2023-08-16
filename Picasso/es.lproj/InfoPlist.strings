@@ -1,0 +1,36 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Picasso";
+
+/* Bundle name */
+"CFBundleName" = "Picasso";
+
+/* (No Comment) */
+"Icon Theme" = "Tema de iconos";
+
+/* Privacy - Media Library Usage Description */
+"NSAppleMusicUsageDescription" = "Picasso necesita permiso para poder hacer las modificaciones (obligatorio para los cambios)";
+
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Picasso sigue activo de fondo para que los cambios sigan aplicados. Normalmente iOS cierra las aplicaciones después de un tiempo. Pero Picasso evade iOS pidiendo datos de localización para así este seguir activo por mas tiempo. Los datos nunca son guardados en otras partes o usados de manera maliciosa.";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Picasso sigue activo de fondo para que los cambios sigan aplicados. Normalmente iOS cierra las aplicaciones después de un tiempo. Pero Picasso evade iOS pidiendo datos de localización para así este seguir activo por mas tiempo. Los datos nunca son guardados en otras partes o usados de manera maliciosa.";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Fotos";
+
+/* (No Comment) */
+"OpenType font" = "Fuente OpenType";
+
+/* (No Comment) */
+"Passcode Theme File" = "Tema para Código";
+
+/* (No Comment) */
+"Theme Archive File" = "Archivo de Tema";
+
+/* (No Comment) */
+"TrueType collection" = "Elección TrueType";
+
+/* (No Comment) */
+"TrueType font" = "Fuente TrueType";
+

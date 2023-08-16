@@ -1,0 +1,830 @@
+/* Recommended lock type */
+"(Recommended)" = "(推荐)";
+
+/* No comment provided by engineer. */
+"*Will also hide carrier name\n^Will also hide cellular data indicator" = "*运营商名称会同时隐藏\n^数据图标会同时隐藏";
+
+/* No comment provided by engineer. */
+"%lldx%lld" = "%lldx%lld";
+
+/* Notification Badge Bubble text. (1 notification) */
+"1" = "1";
+
+/* BomberFish's contribution */
+"AirPower Audio" = "AirPower 音效";
+
+/* No comment provided by engineer. */
+"An error occured when applying face sizes." = "应用锁屏按钮大小时出现一个错误。";
+
+/* No comment provided by engineer. */
+"An error occured while changing key face." = "修改锁屏按钮图案时出现一个错误。";
+
+/* Passcode export error */
+"An error occured while exporting key face." = "导出锁屏按钮图片时出现一个错误";
+
+/* No comment provided by engineer. */
+"An error occured." = "出现一个错误";
+
+/* Unable to enable app clips (NOT WEBCLIPS, if your language does not have a word for this then ignore) */
+"An error occurred while trying to disable appclip icons." = "尝试禁用轻App图标时出现一个错误";
+
+/* Unable to enable app clips (NOT WEBCLIPS, if your language does not have a word for this then ignore) */
+"An error occurred while trying to enable appclip icons." = "尝试启用轻App图标是出现一个错误";
+
+/* No comment provided by engineer. */
+"An error occurred while trying to enable extra settings." = "启用额外设置时出现一个错误";
+
+/* No comment provided by engineer. */
+"App Stopped Running" = "软件已停止运行";
+
+/* No comment provided by engineer. */
+"App Switcher" = "多任务后台界面";
+
+/* No comment provided by engineer. */
+"Apply" = "应用";
+
+/* Header for apply passcode key size for all */
+"Apply for all?" = "应用全部么？";
+
+/* No comment provided by engineer. */
+"Are you sure you want to reset the Default SubType?" = "你确定想要重置为默认的设备类型?";
+
+/* Title of tool */
+"Audio" = "音效";
+
+/* No comment provided by engineer. */
+"Audio Changer" = "音效调整";
+
+/* No comment provided by engineer. */
+"Auto respring after apply" = "应用后自动生效";
+
+/* No comment provided by engineer. */
+"Auto Update Included Audio" = "自动升级内置音效";
+
+/* No comment provided by engineer. */
+"Background" = "后台";
+
+/* No comment provided by engineer. */
+"Background Update Frequency" = "后台更新频率";
+
+/* Audio name */
+"Begin Recording" = "开始录制";
+
+/* Big passcode keys */
+"Big" = "大";
+
+/* No comment provided by engineer. */
+"Blur:   %lld" = "模糊程度:   %lld";
+
+/* No comment provided by engineer. */
+"Breadcrumb Text" = "左上角返回文字";
+
+/* No comment provided by engineer. */
+"Cancel" = "取消";
+
+/* Title of tool */
+"Card Changer" = "卡面美化";
+
+/* No comment provided by engineer. */
+"Carrier Text" = "运营商名称";
+
+/* No comment provided by engineer. */
+"Change Breadcrumb Text" = "修改左上角返回文字";
+
+/* No comment provided by engineer. */
+"Change Carrier Text" = "修改运营商名称";
+
+/* No comment provided by engineer. */
+"Change Status Bar Time Text" = "修改锁屏状态栏时间文字";
+
+/* Audio name */
+"Charging" = "充电中";
+
+/* No comment provided by engineer. */
+"Choose a device subtype" = "选择想修改的设备型号";
+
+/* Title for lock preference */
+"Choose a lock preference" = "修改锁定偏好";
+
+/* No comment provided by engineer. */
+"Choose a name for the lock" = "选取锁头名字";
+
+/* Entering name for audio */
+"Choose a name for the sound" = "为声音选择一个名字";
+
+/* Choose a size for passcode keys */
+"Choose a size" = "选择一个尺寸";
+
+/* Title for choosing background update interval */
+"Choose an update option" = "设置升级选项";
+
+/* No comment provided by engineer. */
+"Choose size" = "选择尺寸";
+
+/* No comment provided by engineer. */
+"Clear image" = "清除自定义图片";
+
+/* sourcelocation's contribution */
+"Co-Developer" = "核心开发者";
+
+/* No comment provided by engineer. */
+"Confirm" = "确认";
+
+/* operation type that corrupts/disables the file */
+"Corrupting" = "禁用";
+
+/* No comment provided by engineer. */
+"Couldn't get url of file. Did you select it?" = "无法获取文件的路径，你是否已选取该文件?";
+
+/* No comment provided by engineer. */
+"Couldn't get url of folder. Did you select it?" = "无法获取文件夹路径，你是否已经选好了文件夹？";
+
+/* No comment provided by engineer. */
+"Picasso" = "Picasso";
+
+/* No comment provided by engineer. */
+"Picasso requires “Always” location permission." = "Picasso想请求“总是”的定位权限。";
+
+/* No comment provided by engineer. */
+"Credits" = "鸣谢";
+
+/* No comment provided by engineer. */
+"Currently to submit themes for other people to see and use, we have to review them on our Discord in #showcase channel." = "近期请提交主题以给其他用户预览和使用，我们需要在Discord的#showcase 频道进行审核。";
+
+/* Custom size for passcode keys */
+"Custom" = "自定义";
+
+/* No comment provided by engineer. */
+"Custom image" = "自定义图片";
+
+/* No comment provided by engineer. */
+"Custom Operations" = "自定义运行模式";
+
+/* default device subtype
+   Default passcode size */
+"Default" = "默认";
+
+/* Audio name */
+"Default Notifications" = "默认通知";
+
+/* No comment provided by engineer. */
+"Delete" = "删除";
+
+/* No comment provided by engineer. */
+"Delete Shortcut Banners" = "删除捷径内横幅";
+
+/* No comment provided by engineer. */
+"Device Resolution" = "设备分辨率";
+
+/* No comment provided by engineer. */
+"Disable" = "禁用";
+
+/* Springboard tool */
+"App Switcher Blur" = "多任务后台模糊";
+
+/* Springboard tool */
+"CC Module Background" = "控制中心模块背景";
+
+/* Springboard tool */
+"CC Background Blur" = "控制中心模块模糊";
+
+/* Springboard tool */
+"Folder Background" = "透明文件夹背景";
+
+/* Springboard tool */
+"Folder Blur" = "移除文件夹模糊";
+
+/* Springboard tool */
+"Library Pod Background" = "资源库背景";
+
+/* No comment provided by engineer. */
+"Disable Shortcut Apps as Appclips" = "禁用将捷径生成的软件作为轻App";
+
+/* No comment provided by engineer. */
+"Dock" = "Dock";
+
+/* iPhone 14 Pro SubType */
+"Dynamic Island" = "灵动岛";
+
+/* iPhone 14 Pro Max SubType */
+"Dynamic Island Pro Max" = "灵动岛Pro Max";
+
+/* matteozappia's contribution */
+"Dynamic Island SubTypes" = "灵动岛型号";
+
+/* No comment provided by engineer. */
+"Email" = "邮箱";
+
+/* No comment provided by engineer. */
+"Enable" = "启用";
+
+/* No comment provided by engineer. */
+"Enable Shortcut Apps as Appclips" = "启用将捷径生成的软件转换为轻App";
+
+/* Audio name */
+"End Recording" = "停止录制";
+
+/* Entering custom resolution */
+"Enter Dimensions" = "输入尺寸";
+
+/* dimensions for passcode keys */
+"Enter Key Dimensions" = "输入尺寸";
+
+/* No comment provided by engineer. */
+"Enter Name" = "输入名字";
+
+/* ginsudev's contribution */
+"Exploit Code" = "漏洞代码";
+
+/* No comment provided by engineer. */
+"Explore" = "探索";
+
+/* No comment provided by engineer. */
+"Extra Preferences" = "额外设置";
+
+/* Failed to apply audio */
+"Failed to apply audio for:" = "修改音效失败:";
+
+/* failed to apply subtype */
+"Failed to apply Device SubType!" = "更改设备型号失败!";
+
+/* Failing to apply custom resolution */
+"Failed to apply resolution:" = "分辨率应用失败:";
+
+/* Import passcode theme from files */
+"Files" = "文件";
+
+/* No comment provided by engineer. */
+"Fix tweaks" = "修复插件";
+
+/* No comment provided by engineer. */
+"Folder" = "文件夹";
+
+/* No comment provided by engineer. */
+"Footnote" = "锁屏底部文字";
+
+/* No comment provided by engineer. */
+"Force MacDirtyCOW" = "强制使用MacDirtyCOW漏洞";
+
+/* No comment provided by engineer. */
+"Forgot password?" = "忘记密码?";
+
+/* Where to import passcode theme from */
+"From where do you want to import from?" = "从哪里导入?";
+
+/* No comment provided by engineer. */
+"Gestures / Dynamic Island" = "手势 / 灵动岛";
+
+/* No comment provided by engineer. */
+"Go here if something isn't working correctly." = "无法生效时的备选设置";
+
+/* Height of custom resolution
+   Height of passcode keys */
+"Height" = "高度";
+
+/* No comment provided by engineer. */
+"Hide Airplane Mode" = "隐藏飞行模式图标";
+
+/* No comment provided by engineer. */
+"Hide AirPlay" = "隐藏隔空投送图标";
+
+/* No comment provided by engineer. */
+"Hide Alarm" = "隐藏闹钟图标";
+
+/* No comment provided by engineer. */
+"Hide Battery" = "隐藏电池图标";
+
+/* No comment provided by engineer. */
+"Hide Bluetooth" = "隐藏蓝牙图标";
+
+/* No comment provided by engineer. */
+"Hide CarPlay" = "隐藏CarPlay";
+
+/* No comment provided by engineer. */
+"Hide Cellular*" = "隐藏蜂窝*";
+
+/* No comment provided by engineer. */
+"Hide Do Not Disturb" = "隐藏勿扰模式图标";
+
+/* Springboard tool */
+"Home Bar" = "底部手势白条";
+
+/* No comment provided by engineer. */
+"Hide Location" = "隐藏定位图标";
+
+/* No comment provided by engineer. */
+"Hide Rotation Lock" = "隐藏旋转图标";
+
+/* No comment provided by engineer. */
+"Hide Status Bar Time" = "隐藏状态栏时间";
+
+/* No comment provided by engineer. */
+"Hide VPN" = "隐藏VPN图标";
+
+/* No comment provided by engineer. */
+"Hide Wi-Fi^" = "隐藏Wi-Fi^";
+
+/* No comment provided by engineer. */
+"Home" = "桌面";
+
+/* Category of tool */
+"Home Screen" = "桌面";
+
+/* No comment provided by engineer. */
+"I'm not a robot (no cap)" = "我不是机器人";
+
+/* Description for lock preference */
+"If the custom lock does not apply for you, try another option." = "如果自定义锁头没有生效，请尝试别的选项";
+
+/* Header for importing passcode theme */
+"Import Passcode Theme" = "导入锁屏按钮主题";
+
+/* No comment provided by engineer. */
+"Included" = "内置";
+
+/* c22dev's contribution */
+"Included Audio & Credits" = "内置音效 & 贡献";
+
+/* Header for inputting custom iOS version */
+"Input Software Version" = "输入自定义系统版本号";
+
+/* x gestures */
+"iPhone X Gestures" = "iPhone X 手势";
+
+/* No comment provided by engineer. */
+"Join Discord" = "加入Discord";
+
+/* Audio name */
+"Keyboard Press Clear" = "键盘清除按键声";
+
+/* Audio name */
+"Keyboard Press Delete" = "键盘删除音效";
+
+/* Audio name */
+"Keyboard Press Normal" = "键盘输入";
+
+/* Audio name */
+"Lock" = "锁定";
+
+/* Category of tool */
+"Lock Screen" = "锁屏界面";
+
+/* Title of tool */
+"Lock Screen Footnote" = "锁屏底部文字";
+
+/* No comment provided by engineer. */
+"Lock Screen Footnote Changer" = "锁屏底部文字美化";
+
+/* No comment provided by engineer. */
+"Lock Type" = "锁定类型";
+
+/* Title of tool */
+"Locks" = "锁定";
+
+/* No comment provided by engineer. */
+"Log in" = "登录";
+
+/* No comment provided by engineer. */
+"Log in Sourced" = "Log in Sourced";
+
+/* Audio name */
+"Low Power" = "低电量";
+
+/* leminlimez's contribution */
+"Main Developer" = "主要开发者";
+
+/* Maximum passcode key size */
+"Max:" = "最大:";
+
+/* Minimum passcode key size */
+"Min:" = "最小:";
+
+/* Title of tool */
+"Miscellaneous" = "其他设置";
+
+/* No comment provided by engineer. */
+"More Settings" = "更多设置";
+
+/* No comment provided by engineer. */
+"Name" = "名字";
+
+/* Audio name */
+"New Mail" = "新邮件提醒";
+
+/* Decline apply for all (passcode keys) */
+"No" = "否";
+
+/* No comment provided by engineer. */
+"No Cards Found" = "没有找到卡片";
+
+/* No comment provided by engineer. */
+"No respring required to apply." = "不需要注销即可应用";
+
+/* Not a valid size input for passcode keys */
+"Not a valid size!" = "不是一个有效的尺寸!";
+
+/* No comment provided by engineer. */
+"OK" = "好的";
+
+/* No comment provided by engineer. */
+"Open Settings" = "打开设置";
+
+/* Category of tool */
+"Other" = "其他";
+
+/* No comment provided by engineer. */
+"Passcode Face Editor" = "锁屏密码按钮美化";
+
+/* Title of tool */
+"Passcode Faces" = "锁屏密码按钮";
+
+/* No comment provided by engineer. */
+"Password" = "密码";
+
+/* No comment provided by engineer. */
+"Path:" = "路径:";
+
+/* Audio name */
+"Payment Failed" = "付款失败";
+
+/* Audio name */
+"Payment Received" = "收到付款";
+
+/* Audio name */
+"Payment Success" = "付款成功";
+
+/* No comment provided by engineer. */
+"Please grant Picasso “Always” location permission in Settings so it can run in the background indefinitely." = "请在设置中给予Picasso “总是” 的定位权限以让其在后台持续运行。";
+
+/* No comment provided by engineer. */
+"Please log into your Sourced Repo account to continue" = "Please log into your Sourced Repo account to continue";
+
+/* Successfully applying custom resolution */
+"Please respring to finalize changes. Reboot to revert." = "请注销来生效，重启将恢复。";
+
+/* No comment provided by engineer. */
+"Please respring to finish applying changes." = "请注销来使应用生效.";
+
+/* respring to hear audio changes */
+"Please respring to hear changes." = "请注销来听新音效";
+
+/* No comment provided by engineer. */
+"Please respring to see changes." = "请注销以查看调整的效果";
+
+/* No comment provided by engineer. */
+"Preferences" = "偏好设置";
+
+/* Audio name */
+"Received Message" = "收到信息";
+
+/* No comment provided by engineer. */
+"Remove all" = "移除所有";
+
+/* operation type that replaces a file */
+"Replacing" = "替换";
+
+/* No comment provided by engineer. */
+"Reset All" = "重置所有";
+
+/* No comment provided by engineer. */
+"Reset Default SubType" = "重置为默认型号";
+
+/* No comment provided by engineer. */
+"Reset faces" = "重置锁屏按钮";
+
+/* No comment provided by engineer. */
+"Respring" = "注销";
+
+/* No comment provided by engineer. */
+"Respring to see changes" = "注销以查看调整效果";
+
+/* No comment provided by engineer. */
+"Run in background" = "后台运行";
+
+/* No comment provided by engineer. */
+"Save Settings" = "保存设置";
+
+/* Import passcode theme from saved */
+"Saved" = "已保存";
+
+/* Audio name */
+"Screenshot" = "截图";
+
+/* Audio name */
+"Sent Mail" = "发送邮件";
+
+/* Audio name */
+"Sent Message" = "发送信息";
+
+/* No comment provided by engineer. */
+"Settings" = "设置";
+
+/* No comment provided by engineer. */
+"Shortcut Apps" = "捷径软件";
+
+/* No comment provided by engineer. */
+"Sign up" = "注册";
+
+/* Small passcode keys */
+"Small" = "小";
+
+/* No comment provided by engineer. */
+"Software Version" = "系统版本";
+
+/* Title of tool */
+"Color" = "颜色";
+
+/* Title of tool */
+"Springboard Tools" = "桌面工具";
+
+/* Springboard tool */
+"Disabled" = "禁用";
+"Visible" = "显示";
+
+/* No comment provided by engineer. */
+"SpringBoard Tools" = "桌面工具";
+
+/* Title of tool */
+"Status Bar" = "状态栏";
+
+/* No comment provided by engineer. */
+"Status Bar Time Text" = "状态栏时间文字";
+
+/* No comment provided by engineer. */
+"Submit themes" = "提交主题";
+
+/* No comment provided by engineer. */
+"Success!" = "成功!";
+
+/* applying audio succeeded */
+"Successfully applied audio!" = "成功应用音效!";
+
+/* No comment provided by engineer. */
+"Supervised" = "监管模式";
+
+/* No comment provided by engineer. */
+"Swipe to view different cards" = "滑动查看不同的卡片";
+
+/* No comment provided by engineer. */
+"Tap a card to customize" = "点击一张卡片来自定义";
+
+/* No comment provided by engineer. */
+"Tap on any key to edit \nits appearance" = "点击任意键来修改 \n它的外观";
+
+/* No comment provided by engineer. */
+"Tap this notification to resume tweak applications." = "点击这个通知来重新启用插件效果";
+
+/* No comment provided by engineer. */
+"The app will quit." = "软件将会退出";
+
+/* Saving imported audio */
+"The imported audio was successfully encoded and saved." = "音效导入成功";
+
+/* Saving imported lock */
+"The imported lock was successfully saved." = "锁头导入成功";
+
+/* No comment provided by engineer. */
+"Tools" = "工具";
+
+/* No comment provided by engineer. */
+"Translators" = "翻译者";
+
+/* No comment provided by engineer. */
+"Tweak Options" = "插件选项";
+
+/* No comment provided by engineer. */
+"Type:" = "类型:";
+
+/* Cannot delete audio (audio name is after) */
+"Unable to delete audio for audio" = "无法删除音效";
+
+/* Failed to import lock */
+"Unable to save imported lock!" = "无法保存导入的锁头!";
+
+/* zhuowei's contribution */
+"Unsandboxing" = "沙盒逃逸";
+
+/* No comment provided by engineer. */
+"Update Included Audio" = "升级内置音效";
+
+/* No comment provided by engineer. */
+"Use Alternative Setter" = "备选设置";
+
+/* No comment provided by engineer. */
+"Use at your own risk" = "后果自负";
+
+/* No comment provided by engineer. */
+"Use this if carrier/time text isn't applying. I would recommend you Reset to Defaults after turning on and saving." = "如果运营商/时间文字没有应用成功，建议恢复默认并保存";
+
+/* No comment provided by engineer. */
+"Use this if your device is erroneously detecting TrollStore installed, and you do not have an Apply button at the top of StatusMagic." = "如果你的设备错误地检测到了巨魔已经安装了或者在状态栏修改插件的顶部没有应用按钮，请使用这个";
+
+/* No comment provided by engineer. */
+"validate" = "有效的";
+
+/* No comment provided by engineer. */
+"Version %@ (%@)" = "版本 %@ (%@)";
+
+/* No comment provided by engineer. */
+"When set to blank on notched devices, this will display the carrier name." = "在刘海设备上设置为空白, 将会展示运营商名称";
+
+/* Width of custom resolution
+   Width of passcode keys */
+"Width" = "宽度";
+
+/* Message for apply passcode key size for all */
+"Would you like to apply this size for all currently active keys? Otherwise, it will only apply to new faces." = "你是否想要将这个尺寸应用在最近已应用的锁屏按钮自定义上？不然就只会应用在新的上面";
+
+/* No comment provided by engineer. */
+"x" = "x";
+
+/* No comment provided by engineer. */
+"X" = "X";
+
+/* No comment provided by engineer. */
+"Y" = "Y";
+
+/* Confirm apply for all (passcode keys) */
+"Yes" = "是的";
+
+/* No comment provided by engineer. */
+"You do not have any saved passcode themes. Check out the explore tab to find some!" = "你没有任何已保存的锁屏密码按钮主题，请查看发现栏来浏览更多主题!";
+
+/* No comment provided by engineer. */
+"Your device will respring." = "你的设备将会注销";
+
+/* Category of tool */
+"Control Center" = "顶部状态栏";
+
+/* Springboard tool */
+"Notification Banner Background" = "顶部通知背景";
+
+/* Springboard tool */
+"Notification Banner Shadow" = "顶部通知阴影";
+
+/* Alert tool */
+"Successfully applied tweaks" = "应用已调整成功";
+"Respring to see changes" = "注销后以查看更改";
+
+/* APPS*/
+"APPS" = "应用";
+"Calculator Error Message" = "自定义计算器错误";//哎呦你干嘛
+"Settings App Customizer" = "自定义设置内容";
+
+/* Themes by chihaodong (twitter) */
+"Themes" = "主题";
+
+"Frequent" = "正常模式";
+"Power Saving" = "节能模式";
+"Apply themes" = "应用主题";
+"Icons" = "图标";
+"Passcodes" = "密码";
+"Error occured while fetching themes" = "提取主题时出错.";
+"Error" = "错误";
+"Rebuild Icon Cache" = "重建图标缓存";
+"Hide Wi-Fi**" = "隐藏WIFI**";
+"*Will also hide carrier name\n**Will also hide cellular data indicator" = "*还将隐藏运营商名称\n**还将隐藏蜂窝数据指示器";
+"Your device will respring.\n\n\nApplying using %@." = "你的设备将会注销。\n\n\n本软件使用 %@ 漏洞。";
+"Select" = "选择";
+"Selected" = "已选择";
+"Change" = "更改";
+"Notification Banner" = "顶部通知";
+"Whitelist" = "白名单";
+"Overwrite Blacklist" = "覆盖黑名单";
+"Overwrite CDHashes" = "覆盖CDHashes";
+"Overwrite Banned Apps" = "覆盖禁用应用程序";
+"Options" = "选项";
+"Make It So, Number One" = "确认设置";
+"View contents of blacklist files" = "查看黑名单文件内容";
+"Blacklist File Contents" = "黑名单文件内容";
+"Blacklist" = "黑名单";
+"Banned Apps" = "禁用的应用程序";
+"CD Hashes" = "CD哈希";
+"Advanced" = "高级";
+/* 8.0.4 */
+"Device" = "设备";
+"Camera" = "相机";
+"Messages" = "信息";
+"Payment" = "支付";
+"Keyboard" = "键盘";
+"Picasso App Icon" = "Picasso 图标";
+"Choose app Icon" = "选择App图标";
+"Included Audio, Credits, and Card Changer" = "包括音频、信用卡和换卡器";
+"Whitelist, AirPower Audio, Various fixes" = "白名单，AirPower音频，问题修复";
+"CC Modules" = "控制中心";
+"Info" = "信息";
+"Applies all tweaks which were applied before." = "应用之前所有应用调整。";
+/* respring info */
+"Respring is an action that allows restarting your Home Screen without rebooting your device." = "注销是一种允许在不重新启动设备的情况下，重新载入主屏幕的操作，完成修改。";
+"Disable Screen Time" = "禁用屏幕使用时间";
+"Screen time was successfully disabled, please reboot to finish application." = "屏幕时间已禁用，请重新启动以完成应用程序设置。";
+"Please wait" = "请稍等";
+"Downloading" = "下载";
+"The theme was successfully downloaded and saved!" = "主题已成功下载并保存！";
+"Could not download theme!" = "无法下载主题!";
+"Rename theme" = "重命名主题";
+"New theme name" = "新的主题名称";
+"Rename" = "重命名";
+"Remove theme" = "移除主题";
+"Alternatives" = "备选方案";
+"No themes found. Download themes in the Explore tab,\nor import them using the button in the top right corner (Themes have to contain icons in the format of <id>.png)." = "找不到主题。请在“探索”选项卡中下载主题，或使用右上角的按钮导入主题（主题必须包含<id>.png格式的图标）";
+"Wait, it's all TrollTools?" = "等等，这是TrollTools？";
+"Always has been" = "一直都是啊";
+"Download themes in Themes tab." = "在探索选项卡中下载主题";
+"Starting..." = "开始...";
+"In progress..." = "正在进行...";
+"Scheduling icon cache reset..." = "正在图标缓存重置...";
+"Understood, Respring" = "Ok了，注销下吧";
+"Errors occurred while setting some icons" = "设置某些图标时出错";
+"Full reset" = "重置所有图标";
+"All app icons will be reverted to their original appearance. Are you sure you want to continue? (Reboot may be required)" = "所有应用程序图标将恢复为其原始外观。是否确实要继续？（可能需要重新启动）";
+"Failed to load operations." = "加载操作失败";
+"Uncategorized" = "未分类";
+"Edit Operation" = "编辑操作";
+"Create Operation" = "创建操作";
+"Name:" = "名称：";
+"Basic Configuration" = "基本配置";
+"Operation Name" = "操作名称";
+"Remove Icons" = "移除图标";
+"Remove Labels" = "移除名称";
+"Remove Previews" = "移除预览";
+"Use Settings Footnote" = "使用脚注";
+"Footnote:" = "脚注:";
+"Image:" = "图片:";
+"Remove Image" = "移除图片";
+"Select Image" = "选择图片";
+"Choose an operation type" = "选择操作类型";
+"Enabled" = "启用";
+"File not found!" = "文件未发现";
+"Apply in Background" = "允许后台运行";
+"Action" = "动作";
+"Replace With:" = "替换为：";
+"Upload File" = "上传文件";
+"Replacement Data" = "替换数据";
+"Plist Type:" = "Plist类型";
+"Choose a plist type" = "选择Plist类型";
+"Size not calculated" = "大小未计算";
+"Could not calculate plist size!" = "无法计算Plist大小！";
+"Calculate Size" = "计算大小";
+"Plist Properties" = "Plist属性";
+"Add Value" = "添加属性";
+"Plist Data" = "Plist数据";
+"Saving operation..." = "正在保存...";
+"Please select a file to import!" = "请选择导入的文件";
+"The operation was successfully saved!" = "操作已成功保存！";
+"An error occurred while saving the operation" = "保存操作时出错";
+"Save" = "保存";
+"Create" = "创建";
+"Apply Once" = "应用一次";
+"Applying operation..." = "正在应用...";
+"The operation was successfully applied! The operation was not saved, only applied." = "该操作已成功应用！该操作未保存，仅应用";
+"An error occurred while applying the operation" = "应用操作时出错";
+"Deleting operation..." = "正在删除操作…";
+"The operation was successfully deleted!" = "操作已成功删除！";
+"An error occurred while deleting the operation" = "删除操作时出错";
+"Restoring original file..." = "正在还原原始文件…";
+"The file was successfully restored!" = "文件已成功还原！";
+"An error occurred while restoring the files" = "还原文件时出错";
+"Restore" = "还原";
+"An error occurred" = "发生错误";
+"New Operation" = "新操作";
+"File:" = "文件：";
+"No file selected!" = "未选择文件！";
+"⚠️ Warning ⚠️\nSome users have experienced bootloops using this feature. If you have not used it before, please proceed with caution." = "⚠️ 警告⚠️\n建议有经验的用户使用此功能。如果您以前没有使用过，请谨慎操作。";
+"Fonts" = "字体";
+"Choose a name for the font pack" = "添加字体包的名称";
+"None" = "无";
+"Apply Without Saving" = "应用并保存";
+"ScreenTime Remover, Included Audio, Credits, and Card Changer" = "屏幕时间删除程序,包括音频、卡片和换卡器";
+"Editing %@" = "编辑 %@";
+"Configuration" = "配置";
+"Set as Active" = "应用";
+"Font Files" = "字体文件";
+"Failed to delete font file!" = "删除字体文件失败！";
+"Couldn't get url of file. Did you select it?" = "无法获取文件的url。您选择正确了吗？";
+"Failed to import font files!" = "导入字体文件失败！";
+"Active" = "激活";
+"Update Frequency" = "更新频率";
+"Background Applying" = "后台应用";
+"Use this if your device is erroneously detecting TrollStore installed, and you do not have an Apply button at the top of the Status Bar page." = "如果您的设备错误地检测到安装了TrollStore，并且状态栏页面顶部没有“应用”按钮，请使用此选项";
+"Your apps should now function properly" = "你的应用现在应该正常运行";
+"Please wait for Picasso to finish theming..." = "请等待Picasso完成主题...";
+"In the meantime you can ..." = "在此期间，你可以…";
+"Join Discord" = "加入Discord";
+"Close" = "关闭";
+"No themes containing icons for %@ (%@) have been found." = "主题内未找到包含%@（%@）图标";
+"There was an error getting font packs." = "获取字体包时出错";
+"Custom Operations Author Name" = "自定义操作者姓名";
+"Change Battery Detail Text" = "修改电池文字";
+"Battery Detail Text" = "电池文字";
+"Change Battery Icon Capacity" = "修改当前电量";
+"Change WiFi Signal Strength Bars" = "修改WiFi信号强度";
+"Change Cellular Signal Strength Bars" = "修改运营商信号强度";
+"Show Numeric WiFi Strength" = "显示WiFi信号强度";
+"Show Numeric Cellular Strength" = "显示运营商信号强度";
+"Test: theme all icons using 1 icon" = "测试性: 全部主题仅使用一个图标";
+"showCancelButtonOnThemingEnd" = "应用后显示取消按钮";
+"noThemingFixup" = "空主题修复";
+"Every 2 Minutes" = "每2分钟";
+"Every 10 Minutes" = "每10分钟";
+"Every 30 Minutes" = "每30分钟";

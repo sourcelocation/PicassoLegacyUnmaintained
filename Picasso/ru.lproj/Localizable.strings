@@ -1,0 +1,1305 @@
+/* No comment provided by engineer. */
+"????" = "????";
+
+/* No comment provided by engineer. */
+"· %lld" = "· %lld";
+
+/* Recommended lock type */
+"(Recommended)" = "(рекомендуется)";
+
+/* No comment provided by engineer. */
+"*Will also hide carrier name\n**Will also hide cellular data indicator" = "*Также скроет название оператора\n**Также скроет значок сотовых данных";
+
+/* No comment provided by engineer. */
+"%lld" = "%lld";
+
+/* No comment provided by engineer. */
+"%lld bytes" = "%lld байт";
+
+/* No comment provided by engineer. */
+"%lld%%" = "%lld%%";
+
+/* No comment provided by engineer. */
+"⚠️ Warning ⚠️\nSome users have experienced bootloops using this feature. If you are on a beta version of iOS, preceed with caution. If you are on an iOS 16.0 beta, do not use this feature." = "⚠️ Предупреждение ⚠️\nНекоторые пользователи сталкиваются с циклической перезагрузкой устройства при использовании этой функции. Если у Вас установлена бета-версия iOS, используйте с осторожностью. Если у Вас бета iOS 16, НЕ используйте эту функцию.";
+
+/* IMPORTANT alert when icons finish applying */
+"⚠️⬇ PLEASE READ ⬇⚠️\n\n After the phone resprings, please *reopen Picasso* to fix apps not functioning properly\n\nVERY IMPORTANT: If you see the apple logo and progress bar, do not worry, your device is fine. PLEASE DO NOT ATTEMPT TO FORCE REBOOT IT.\n\nElapsed time: (Double(Int(-timeStart.timeIntervalSinceNow * 100.0)) / 100.0)s" = "⚠️⬇ ПРОЧИТАЙТЕ ⬇⚠️\n\nПосле перезапуска SpringBoard *откройте Picasso*, чтобы исправить приложения, которые не работают нормально.\n\nОЧЕНЬ ВАЖНО: Если Вы увидите логотип Apple с индикатором выполнения, НЕ ПЫТАЙТЕСЬ ПРИНУДИТЕЛЬНО ПЕРЕЗАГРУЗИТЬ УСТРОЙСТВО, просто ждите.\n\nЗатраченное время: (Double(Int(-timeStart.timeIntervalSinceNow * 100.0)) / 100.0) секунд";
+
+/* Notification Badge Bubble text. (1 notification) */
+"1" = "1";
+
+/* No comment provided by engineer. */
+"Action" = "Действие";
+
+/* No comment provided by engineer. */
+"Active" = "Используется сейчас";
+
+/* No comment provided by engineer. */
+"Add Value" = "Добавить значение";
+
+/* No comment provided by engineer. */
+"Advanced" = "Расширенные опции";
+
+/* resetting all icons */
+"All app icons will be reverted to their original appearance. Are you sure you want to continue? (Reboot may be required)" = "Все иконки будут возвращены к оригиналам. Вы уверены, что хотите продолжить? (возможно, потребуется перезагрузка)";
+
+/* No comment provided by engineer. */
+"Alternatives" = "Другие иконки";
+
+/* No comment provided by engineer. */
+"Always has been" = "Всегда был";
+
+/* No comment provided by engineer. */
+"An error occured when applying face sizes." = "При применении размеров темы клавиш произошла ошибка.";
+
+/* No comment provided by engineer. */
+"An error occured while changing key face." = "При изменении темы клавиш произошла ошибка.";
+
+/* Passcode export error */
+"An error occured while exporting key face." = "При экспорте темы клавиш произошла ошибка.";
+
+/* No comment provided by engineer. */
+"An error occured." = "Произошла ошибка.";
+
+/* No comment provided by engineer. */
+"An error occurred" = "Произошла ошибка";
+
+/* when an operation fails to apply */
+"An error occurred while applying the operation" = "При применении операции произошла ошибка";
+
+/* when an operation fails to delete */
+"An error occurred while deleting the operation" = "При удалении операции произошла ошибка";
+
+/* when an operation fails to restore */
+"An error occurred while restoring the files" = "При восстановлении файлов произошла ошибка";
+
+/* when an operation fails to save */
+"An error occurred while saving the operation" = "При сохранении операции произошла ошибка";
+
+/* Unable to enable app clips (NOT WEBCLIPS, if your language does not have a word for this then ignore) */
+"An error occurred while trying to disable appclip icons." = "При отключении иконок блиц-приложений произошла ошибка.";
+
+/* Unable to enable app clips (NOT WEBCLIPS, if your language does not have a word for this then ignore) */
+"An error occurred while trying to enable appclip icons." = "При включении иконок блиц-приложений произошла ошибка.";
+
+/* No comment provided by engineer. */
+"An error occurred while trying to enable extra settings." = "При включении дополнительных настроек произошла ошибка.";
+
+/* No comment provided by engineer. */
+"App Stopped Running" = "Приложение остановилось";
+
+/* No comment provided by engineer. */
+"App Switcher" = "Многозадачность";
+
+/* No comment provided by engineer. */
+"App theme was successfully saved!" = "Тема приложения успешно сохранена!";
+
+/* No comment provided by engineer. */
+"Apple ID, iCloud, Media & Purchases" = "Apple ID, iCloud, контент и покупки";
+
+/* fix tweaks info */
+"Applies all tweaks which were applied before." = "Исправление твиков применяет все примененные ранее твики.";
+
+/* No comment provided by engineer. */
+"Apply" = "Применить";
+
+/* Header for apply passcode key size for all */
+"Apply for all?" = "Применить для всех клавиш?";
+
+/* No comment provided by engineer. */
+"Apply in Background" = "Применять в фоновом режиме";
+
+/* No comment provided by engineer. */
+"Apply Once" = "Применить один раз";
+
+/* No comment provided by engineer. */
+"Apply themes" = "Применить темы";
+
+/* No comment provided by engineer. */
+"Apply Without Saving" = "Применить без сохранения";
+
+/* apply button on custom operations */
+"Applying operation..." = "Применение операции...";
+
+/* No comment provided by engineer. */
+"Are you sure you want to reset the Default SubType?" = "Вы уверены, что хотите сбросить подтип?";
+
+/* No comment provided by engineer. */
+"Asset Catalog" = "Каталог объектов";
+
+/* Title of tool */
+"Audio" = "Звуки";
+
+/* No comment provided by engineer. */
+"Audio Changer" = "Редактор звуков";
+
+/* No comment provided by engineer. */
+"Auto respring after apply" = "Перезапускать SpringBoard автоматически после применения твиков";
+
+/* No comment provided by engineer. */
+"Auto Update Included Audio" = "Обновлять список звуков автоматически";
+
+/* No comment provided by engineer. */
+"Background" = "Фон";
+
+/* No comment provided by engineer. */
+"Background Applying" = "Применяются в фоновом режиме";
+
+/* No comment provided by engineer. */
+"Background Services" = "Сервисы в фоновом режиме";
+
+/* No comment provided by engineer. */
+"Background Update Frequency" = "Частота обновления в фоновом режиме";
+
+/* No comment provided by engineer. */
+"Banned Apps" = "Banned Apps";
+
+/* No comment provided by engineer. */
+"Basic Configuration" = "Основные параметры";
+
+/* No comment provided by engineer. */
+"Battery Detail Text" = "Текст заряда аккумулятора";
+
+/* Audio name */
+"Begin Recording" = "Начало записи";
+
+/* Big passcode keys */
+"Big" = "Большой";
+
+/* No comment provided by engineer. */
+"binary" = "бинарный";
+
+/* No comment provided by engineer. */
+"Blacklist" = "Blacklist";
+
+/* No comment provided by engineer. */
+"Blacklist File Contents" = "Содержание файлов черных списков";
+
+/* No comment provided by engineer. */
+"Blur Enabled" = "Размытие включено";
+
+/* No comment provided by engineer. */
+"Blur:   %lld" = "Размытие:  %lld";
+
+/* No comment provided by engineer. */
+"Breadcrumb Text" = "Текст навигации";
+
+/* No comment provided by engineer. */
+"Bugs may arise. It's also not meant to be redistributed, because... blah blah blah, you know what happens if you do 🧌" = "Может содержать ошибки. Не предназначено для распространения, потому что... ну ты понял, короче 🧌";
+
+/* No comment provided by engineer. */
+"Calculate Size" = "Вычислить размер";
+
+/* Cancel */
+"Cancel" = "Отменить";
+
+/* No comment provided by engineer. */
+"Cannot write to file path!" = "Не удается записать по пути файла!";
+
+/* Title of tool */
+"Card Changer" = "Редактор карт";
+
+/* No comment provided by engineer. */
+"Carrier Text" = "Название оператора";
+
+/* No comment provided by engineer. */
+"catalogIconTheming" = "catalogIconTheming";
+
+/* No comment provided by engineer. */
+"CC Modules" = "Модули ЦУ";
+
+/* No comment provided by engineer. */
+"CD Hashes" = "CD Hashes";
+
+/* No comment provided by engineer. */
+"Change" = "Изменить";
+
+/* No comment provided by engineer. */
+"Change Battery Detail Text" = "Изменить текст заряда аккумулятора";
+
+/* No comment provided by engineer. */
+"Change Battery Icon Capacity" = "Изменить значок состояния батареи";
+
+/* No comment provided by engineer. */
+"Change Breadcrumb Text" = "Изменить текст навигации";
+
+/* No comment provided by engineer. */
+"Change Carrier Text" = "Изменить название оператора";
+
+/* No comment provided by engineer. */
+"Change Cellular Signal Strength Bars" = "Изменить значок силы сигнала сотовых данных";
+
+/* No comment provided by engineer. */
+"Change Status Bar Time Text" = "Изменить время в строке состояния";
+
+/* No comment provided by engineer. */
+"Change WiFi Signal Strength Bars" = "Изменить значок силы сигнала Wi-Fi";
+
+/* Audio name */
+"Charging" = "Подключение зарядного устройства";
+
+/* No comment provided by engineer. */
+"Choose a device subtype" = "Выберите подтип устройства";
+
+/* Title for lock preference */
+"Choose a lock preference" = "Выберите тип значка замка";
+
+/* No comment provided by engineer. */
+"Choose a name for the category" = "Выберите имя категории";
+
+/* No comment provided by engineer. */
+"Choose a name for the lock" = "Выберите имя значка замка";
+
+/* Entering name for audio */
+"Choose a name for the sound" = "Выберите имя звука";
+
+/* No comment provided by engineer. */
+"Choose a plist type" = "Выберите тип файла plist";
+
+/* Choose a size for passcode keys */
+"Choose a size" = "Изменить размер";
+
+/* No comment provided by engineer. */
+"Choose a value type" = "Выберите тип значения";
+
+/* No comment provided by engineer. */
+"Choose an operation type" = "Выберите тип операции";
+
+/* Title for choosing background update interval */
+"Choose an update option" = "Выберите частоту обновления в фоновом режиме";
+
+/* No comment provided by engineer. */
+"Choose app Icon" = "Выберите иконку приложения";
+
+/* No comment provided by engineer. */
+"Choose Image" = "Выберите тему";
+
+/* No comment provided by engineer. */
+"Choose size" = "Изменить размер";
+
+/* No comment provided by engineer. */
+"Clear image" = "Убрать фото";
+
+/* No comment provided by engineer. */
+"Close" = "Закрыть";
+
+/* No comment provided by engineer. */
+"Color" = "Изменение цвета";
+
+/* No comment provided by engineer. */
+"Color Data" = "Данные цвета";
+
+/* No comment provided by engineer. */
+"Color:" = "Цвет:";
+
+/* No comment provided by engineer. */
+"Configuration" = "Конфигурация";
+
+/* No comment provided by engineer. */
+"Confirm" = "Подтвердить";
+
+/* No comment provided by engineer. */
+"Continue" = "Продолжить";
+
+/* Category of tool */
+"Control Center" = "Центр управления";
+
+/* operation type that corrupts/disables the file */
+"Corrupting" = "Повреждение файла";
+
+/* No comment provided by engineer. */
+"Could not calculate plist size!" = "Не удалось вычислить размер файла plist!";
+
+/* No comment provided by engineer. */
+"Could not download theme!" = "Не удалось загрузить тему!";
+
+/* No comment provided by engineer. */
+"Couldn't get url of file. Did you select it?" = "Не удалось получить путь к файлу. Вы файл-то выбрали?";
+
+/* No comment provided by engineer. */
+"Couldn't get url of folder. Did you select it?" = "Не удалось получить путь к папке. Вы папку-то выбрали?";
+
+/* No comment provided by engineer. */
+"Picasso" = "Picasso";
+
+/* No comment provided by engineer. */
+"Picasso %@" = "Picasso %@";
+
+/* No comment provided by engineer. */
+"Picasso App Icon" = "Иконка приложения Picasso";
+
+/* No comment provided by engineer. */
+"Picasso requires “Always” location permission." = "Picasso требуется постоянный доступ к геолокации.";
+
+/* App icon name */
+"CowTools" = "CowTools";
+
+/* No comment provided by engineer. */
+"Create" = "Создать";
+
+/* No comment provided by engineer. */
+"Create Operation" = "Создать операцию";
+
+/* No comment provided by engineer. */
+"Creating" = "Создание";
+
+/* No comment provided by engineer. */
+"Creating Data" = "Создание данных";
+
+/* No comment provided by engineer. */
+"Credits" = "Авторы";
+
+/* No comment provided by engineer. */
+"Currently to submit themes for other people to see and use, we have to review them on our Discord in #showcase channel." = "Чтобы отправить тему, нам нужно проверить ее в канале #showcase на сервере Discord.";
+
+/* Custom size for passcode keys */
+"Custom" = "Собственный";
+
+/* No comment provided by engineer. */
+"Custom image" = "Выбрать фото";
+
+/* Title of tool */
+"Custom Operations" = "Собственные операции";
+
+/* No comment provided by engineer. */
+"Custom Operations Author Name" = "Имя автора операции";
+
+/* App icon name
+   default device subtype
+   Default passcode size */
+"Default" = "По умолчанию";
+
+/* Audio name */
+"Default Notifications" = "Стандартные уведомления";
+
+/* No comment provided by engineer. */
+"Delete" = "Удалить";
+
+/* No comment provided by engineer. */
+"Delete Shortcut Banners" = "Убрать баннер быстрой команды";
+
+/* No comment provided by engineer. */
+"Deleting" = "Удаление";
+
+/* delete button on custom operations */
+"Deleting operation..." = "Удаление операции...";
+
+/* No comment provided by engineer. */
+"Dialer Face Editor" = "Редактор тем клавиш звонилки";
+
+/* No comment provided by engineer. */
+"Dialer keys successfully cleared!" = "Клавиши звонилки успешно сброшены!";
+
+/* No comment provided by engineer. */
+"Disable" = "Отключить";
+
+/* Springboard tool */
+"Disable App Switcher Blur" = "Отключить размытие многозадачности";
+
+/* Springboard tool */
+"Disable CC Module Background" = "Отключить размытие модуля ЦУ";
+
+/* Springboard tool */
+"Disable Folder Background" = "Отключить размытие фона папки";
+
+/* Springboard tool */
+"Disable Folder Blur" = "Отключить размытие папки";
+
+/* Springboard tool */
+"Disable Library Pods Background" = "Отключить фон библиотеки приложений";
+
+/* No comment provided by engineer. */
+"Disable Screen Time" = "Отключить Экранное время";
+
+/* No comment provided by engineer. */
+"Disable Shortcut Apps as Appclips" = "Отключить приложения быстрых команд как блиц-приложения";
+
+/* No comment provided by engineer. */
+"Dock" = "Панель Dock";
+
+/* No comment provided by engineer. */
+"Download themes in Themes tab." = "Скачайте темы во вкладке Темы.";
+
+/* No comment provided by engineer. */
+"Downloading" = "Загрузка";
+
+/* iPhone 14 Pro SubType */
+"Dynamic Island" = "Динамический остров";
+
+/* iPhone 14 Pro Max SubType */
+"Dynamic Island Pro Max" = "Динамический остров Pro Max";
+
+/* matteozappia's contribution */
+"Dynamic Island SubTypes" = "Подтипы динамического острова";
+
+/* No comment provided by engineer. */
+"Edit Operation" = "Редактировать операцию";
+
+/* No comment provided by engineer. */
+"Editing %@" = "Редактирование %@";
+
+/* No comment provided by engineer. */
+"Email" = "Почта";
+
+/* No comment provided by engineer. */
+"Enable" = "Включить";
+
+/* No comment provided by engineer. */
+"Enable Shortcut Apps as Appclips" = "Включить приложения быстрых команд как блиц-приложения";
+
+/* No comment provided by engineer. */
+"Enabled" = "Включено";
+
+/* Audio name */
+"End Recording" = "Окончание записи";
+
+/* Entering custom resolution */
+"Enter Dimensions" = "Введите разрешение";
+
+/* dimensions for passcode keys */
+"Enter Key Dimensions" = "Введите разрешение клавиши";
+
+/* No comment provided by engineer. */
+"Enter Name" = "Введите имя";
+
+/* No comment provided by engineer. */
+"Error" = "Ошибка";
+
+/* Error occured while fetching themes */
+"Error occured while fetching themes" = "При получении тем произошла ошибка";
+
+/* No comment provided by engineer. */
+"Errors occurred while setting some icons" = "При применении некоторых иконок произошла ошибка";
+
+/* No comment provided by engineer. */
+"Exaple" = "Пример";
+
+/* ginsudev's contribution */
+"Exploit Code" = "Код эксплойта";
+
+/* No comment provided by engineer. */
+"Explore" = "Обзор";
+
+/* No comment provided by engineer. */
+"Extra Preferences" = "Дополнительные настройки";
+
+/* Failed to apply audio */
+"Failed to apply audio for:" = "Не удалось применить звуки для:";
+
+/* failed to apply subtype */
+"Failed to apply Device SubType!" = "Не удалось применить подтип устройства!";
+
+/* Failing to apply custom resolution */
+"Failed to apply resolution:" = "Не удалось применить разрешение:";
+
+/* No comment provided by engineer. */
+"Failed to apply system version change! The version must be shorter than your current device version.\n\n(error.localizedDescription)" = "Не удалось изменить версию iOS. Она должна быть ниже, чем текущая.\n\n(error.localizedDescription)";
+
+/* when the category cannot be created */
+"Failed to create category" = "Не удалось создать категорию";
+
+/* No comment provided by engineer. */
+"Failed to load operations." = "Не удалось загрузить операции.";
+
+/* No comment provided by engineer. */
+"Failed to save theme!" = "Не удалось сохранить тему!";
+
+/* No comment provided by engineer. */
+"File not found!" = "Файл не найден!";
+
+/* No comment provided by engineer. */
+"File:" = "Файл:";
+
+/* Import passcode theme from files */
+"Files" = "Файлы";
+
+/* No comment provided by engineer. */
+"Filter" = "Фильтр";
+
+/* No comment provided by engineer. */
+"Fix tweaks" = "Исправить твики";
+
+/* No comment provided by engineer. */
+"Fixing apps..." = "Исправление приложений...";
+
+/* No comment provided by engineer. */
+"Focus" = "Фокусирование";
+
+/* No comment provided by engineer. */
+"Folder" = "Папка";
+
+/* No comment provided by engineer. */
+"Font Files" = "Файлы шрифта";
+
+/* No comment provided by engineer. */
+"Font Pack Name" = "Имя пакета шрифтов";
+
+/* No comment provided by engineer. */
+"Fonts" = "Шрифты";
+
+/* No comment provided by engineer. */
+"Footnote" = "Сноска";
+
+/* No comment provided by engineer. */
+"Footnote:" = "Сноска:";
+
+/* No comment provided by engineer. */
+"Force MacDirtyCOW" = "Принудительно использовать MacDirtyCOW";
+
+/* No comment provided by engineer. */
+"Forgot password?" = "Забыли пароль?";
+
+/* Frequent */
+"Frequent" = "Часто";
+
+/* Where to import passcode theme from */
+"From where do you want to import from?" = "Выберите источник импорта";
+
+/* header for resetting all icons */
+"Full reset" = "Полный сброс";
+
+/* No comment provided by engineer. */
+"Generate Padding" = "Сгенерировать отступы";
+
+/* No comment provided by engineer. */
+"Gestures / Dynamic Island" = "Жесты / Динамический остров";
+
+/* App icon name */
+"Glitch" = "Глюк";
+
+/* No comment provided by engineer. */
+"Go here if something isn't working correctly." = "Зайди сюда, если что-то не работает.";
+
+/* Height of custom resolution
+   Height of passcode keys */
+"Height" = "Высота";
+
+/* No comment provided by engineer. */
+"Hide Airplane Mode" = "Скрыть значок авиарежима";
+
+/* No comment provided by engineer. */
+"Hide AirPlay" = "Скрыть значок AirPlay";
+
+/* No comment provided by engineer. */
+"Hide Alarm" = "Скрыть значок будильника";
+
+/* No comment provided by engineer. */
+"Hide Battery" = "Скрыть значок батареи";
+
+/* No comment provided by engineer. */
+"Hide Bluetooth" = "Скрыть значок Bluetooth";
+
+/* No comment provided by engineer. */
+"Hide CarPlay" = "Скрыть значок CarPlay";
+
+/* No comment provided by engineer. */
+"Hide Cellular*" = "Скрыть значок сотовых данных*";
+
+/* No comment provided by engineer. */
+"Hide Do Not Disturb" = "Скрыть значок Не беспокоить";
+
+/* Springboard tool */
+"Hide Dock" = "Скрыть панель Dock";
+
+/* Springboard tool */
+"Hide Home Bar" = "Скрыть полоску";
+
+/* No comment provided by engineer. */
+"Hide Location" = "Скрыть значок геолокации";
+
+/* Springboard tool */
+"Hide Notification Banner Background" = "Скрыть фон уведомления";
+
+/* No comment provided by engineer. */
+"Hide Rotation Lock" = "Скрыть значок ориентации";
+
+/* No comment provided by engineer. */
+"Hide Status Bar Time" = "Скрыть время в строке состояния";
+
+/* No comment provided by engineer. */
+"Hide VPN" = "Скрыть значок VPN";
+
+/* No comment provided by engineer. */
+"Hide Wi-Fi**" = "Скрыть значок Wi-Fi**";
+
+/* No comment provided by engineer. */
+"Home" = "Главная";
+
+/* Category of tool */
+"Home Screen" = "Экран «Домой»";
+
+/* No comment provided by engineer. */
+"I'm not a robot (no cap)" = "Я не робот (без б)";
+
+/* No comment provided by engineer. */
+"Icons" = "Иконки";
+
+/* No comment provided by engineer. */
+"Icons override" = "Изменение иконок";
+
+/* No comment provided by engineer. */
+"If a file of the same name already exists in the pack, it will be overwritten." = "Если файл с таким именем уже существует в пакете, он будет перезаписан.";
+
+/* Description for lock preference */
+"If the custom lock does not apply for you, try another option." = "Если смена значка замка не работает, выберите другой пункт.";
+
+/* No comment provided by engineer. */
+"Image:" = "Изображение:";
+
+/* Header for importing passcode theme */
+"Import Passcode Theme" = "Импорт темы клавиш";
+
+/* No comment provided by engineer. */
+"In progress..." = "Подождите...";
+
+/* A joke about users being able to join Discord while they wait for Picasso to finish theming. "In the meantime you can Join Discord" is the text for button */
+"In the meantime you can ..." = "А пока Вы можете...";
+
+/* No comment provided by engineer. */
+"Included" = "Встроенные";
+
+/* fix tweaks info header
+   respring info header */
+"Info" = "Информация";
+
+/* Header for inputting custom iOS version */
+"Input Software Version" = "Введите версию iOS";
+
+/* App icon name */
+"iOS 6" = "iOS 6";
+
+/* x gestures */
+"iPhone X Gestures" = "Жесты iPhone X";
+
+/* No comment provided by engineer. */
+"Join Discord" = "Перейти в Discord";
+
+/* key for plist operation */
+"Key" = "Ключ";
+
+/* Audio name */
+"Keyboard Press Clear" = "Клавиша Clear клавиатуры";
+
+/* Audio name */
+"Keyboard Press Delete" = "Клавиша Delete клавиатуры";
+
+/* Audio name */
+"Keyboard Press Normal" = "Стандартная клавиша клавиатуры";
+
+/* Audio name */
+"Lock" = "Блокировка";
+
+/* Category of tool */
+"Lock Screen" = "Экран блокировки";
+
+/* Title of tool */
+"Lock Screen Footnote" = "Сноска на экране блокировки";
+
+/* No comment provided by engineer. */
+"Lock Screen Footnote Changer" = "Сноска на экране блокировки";
+
+/* No comment provided by engineer. */
+"Lock Type" = "Тип значка замка";
+
+/* Title of tool */
+"Locks" = "Замки";
+
+/* No comment provided by engineer. */
+"Log in" = "Войти";
+
+/* No comment provided by engineer. */
+"Log in Sourced" = "Войти в Sourced";
+
+/* Audio name */
+"Low Power" = "Низкий уровень заряда";
+
+/* leminlimez's contribution
+   sourcelocation's contribution */
+"Main Developer" = "Один из главных разработчиков";
+
+/* No comment provided by engineer. */
+"Make It So, Number One" = "Давай, нажми «Применить»";
+
+/* No comment provided by engineer. */
+"Manage Background Tasks" = "Управление задачами в фоновом режиме";
+
+/* Maximum passcode key size */
+"Max:" = "Максимум:";
+
+/* Minimum passcode key size */
+"Min:" = "Минимум:";
+
+/* App icon name */
+"Minecraft" = "Minecraft";
+
+/* Title of tool */
+"Miscellaneous" = "Разные приколы";
+
+/* No comment provided by engineer. */
+"More Settings" = "Больше настроек";
+
+/* No comment provided by engineer. */
+"Name" = "Имя";
+
+/* No comment provided by engineer. */
+"Name:" = "Имя:";
+
+/* No comment provided by engineer. */
+"New" = "Новый";
+
+/* No comment provided by engineer. */
+"New Category" = "Новая категория";
+
+/* Audio name */
+"New Mail" = "Новое письмо";
+
+/* No comment provided by engineer. */
+"New Operation" = "Новая операция";
+
+/* No comment provided by engineer. */
+"New theme name" = "Название темы";
+
+/* Decline apply for all (passcode keys) */
+"No" = "Нет";
+
+/* No comment provided by engineer. */
+"No Cards Found" = "Карт не найдено";
+
+/* No comment provided by engineer. */
+"No images found!" = "Изображений не найдено!";
+
+/* No comment provided by engineer. */
+"No respring required to apply." = "Перезапуск SpringBoard не требуется.";
+
+/* No comment provided by engineer. */
+"No themes containing icons for %@ (%@) have been found." = "Тем, содержащих иконки для %@ (%@), не найдено.";
+
+/* No comment provided by engineer. */
+"No themes found. Download themes in the Explore tab,\nor import them using the button in the top right corner (Themes have to contain icons in the format of <id>.png)." = "Темы не найдены. Скачайте темы во вкладке Обзор\nили импортируйте их при помощи кнопки в правом верхнем углу (Темы должны содержать иконки в формате <id>.png).";
+
+/* No comment provided by engineer. */
+"noPNGThemingFixup" = "noPNGThemingFixup";
+
+/* Not a valid size input for passcode keys */
+"Not a valid size!" = "Неправильный размер!";
+
+/* No comment provided by engineer. */
+"Not enough icons to show a preview. \nInvalid theme?" = "Недостаточно иконок для предпросмотра. Тема повреждена?";
+
+/* No comment provided by engineer. */
+"Not Playing" = "Не воспроизводится";
+
+/* No comment provided by engineer. */
+"noThemingFixup" = "noThemingFixup";
+
+/* No comment provided by engineer. */
+"Notification Banner" = "Баннер уведомлений";
+
+/* No comment provided by engineer. */
+"OK" = "ОК";
+
+/* No comment provided by engineer. */
+"Open Settings" = "Открыть Настройки";
+
+/* No comment provided by engineer. */
+"Operation Name" = "Имя операции";
+
+/* No comment provided by engineer. */
+"Options" = "Опции";
+
+/* No comment provided by engineer. */
+"Original" = "Оригинал";
+
+/* Category of tool */
+"Other" = "Другое";
+
+/* No comment provided by engineer. */
+"Overwrite Banned Apps" = "Перезаписать Banned Apps";
+
+/* No comment provided by engineer. */
+"Overwrite Blacklist" = "Перезаписать Blacklist";
+
+/* No comment provided by engineer. */
+"Overwrite CDHashes" = "Перезаписать CDHashes";
+
+/* No comment provided by engineer. */
+"Passcode Face Editor" = "Редактор тем клавиш код-пароля";
+
+/* Title of tool */
+"Passcode Faces" = "Темы клавиш";
+
+/* No comment provided by engineer. */
+"Passcodes" = "Темы клавиш";
+
+/* No comment provided by engineer. */
+"Password" = "Пароль";
+
+/* No comment provided by engineer. */
+"Path" = "Путь";
+
+/* No comment provided by engineer. */
+"Path:" = "Путь:";
+
+/* No comment provided by engineer. */
+"Patreon Supporters" = "Подписчики Patreon";
+
+/* Audio name */
+"Payment Failed" = "Ошибка оплаты";
+
+/* Audio name */
+"Payment Received" = "Оплата принята";
+
+/* Audio name */
+"Payment Success" = "Успешная оплата";
+
+/* App icon name */
+"Pixel Art" = "Пиксель арт";
+
+/* No comment provided by engineer. */
+"Please close and reopen the Phone app." = "Закройте и откройте заново приложение Телефон.";
+
+/* when user enters a category name that cannot be used */
+"Please enter a valid category name!" = "Введите допустимое имя категории!";
+
+/* No comment provided by engineer. */
+"Please grant Picasso “Always” location permission in Settings so it can run in the background indefinitely." = "Разрешите Picasso постоянный доступ к геолокации для работы в фоновом режиме.";
+
+/* No comment provided by engineer. */
+"Please log into your Sourced Repo account to continue" = "Войдите в аккаунт Sourced для продолжения";
+
+/* No comment provided by engineer. */
+"Please respring to finish applying changes." = "Перезапустите SpringBoard, чтобы изменения вступили в силу.";
+
+/* respring to hear audio changes */
+"Please respring to hear changes." = "Перезапустите SpringBoard, чтобы изменения вступили в силу.";
+
+/* No comment provided by engineer. */
+"Please respring to see changes." = "Перезапустите SpringBoard, чтобы изменения вступили в силу.";
+
+/* No comment provided by engineer. */
+"Please select a file to import!" = "Выберите файл для импорта!";
+
+/* No comment provided by engineer. */
+"Please wait" = "Пожалуйста, подождите";
+
+/* No comment provided by engineer. */
+"Please wait for Picasso to finish theming..." = "Подождите завершения применения темы...";
+
+/* operation type that changes plist keys */
+"Plist" = "Изменение файла Plist";
+
+/* No comment provided by engineer. */
+"Plist Data" = "Данные файла Plist";
+
+/* No comment provided by engineer. */
+"Plist Properties" = "Параметры файла Plist";
+
+/* No comment provided by engineer. */
+"Plist Type:" = "Тип файла Plist:";
+
+/* No comment provided by engineer. */
+"pngIconTheming" = "pngIconTheming";
+
+/* Power Saving */
+"Power Saving" = "Редко (режим энергосбережения)";
+
+/* No comment provided by engineer. */
+"Preferences" = "Параметры";
+
+/* No comment provided by engineer. */
+"Preview" = "Предпросмотр";
+
+/* No comment provided by engineer. */
+"Private build" = "Частная сборка";
+
+/* Successfully applying custom resolution */
+"Reboot to revert resolution changes. It will auto respring when done" = "Перезагрузите устройство, чтобы вернуть оригинальное разрешение.";
+
+/* No comment provided by engineer. */
+"Rebuild Icon Cache" = "Пересобрать кэш иконок";
+
+/* Audio name */
+"Received Message" = "Новое сообщение";
+
+/* No comment provided by engineer. */
+"Remove all" = "Скрыть все";
+
+/* No comment provided by engineer. */
+"Remove Icons" = "Удалить иконки";
+
+/* No comment provided by engineer. */
+"Remove Image" = "Удалить изображения";
+
+/* No comment provided by engineer. */
+"Remove Labels" = "Удалить наклейки";
+
+/* No comment provided by engineer. */
+"Remove Previews" = "Удалить предпросмотры";
+
+/* No comment provided by engineer. */
+"Remove theme" = "Удалить тему";
+
+/* No comment provided by engineer. */
+"Rename" = "Переименовать";
+
+/* Entering new theme name */
+"Rename theme" = "Переименовать тему";
+
+/* No comment provided by engineer. */
+"Replace With:" = "Заменить на:";
+
+/* No comment provided by engineer. */
+"Replacement Data" = "Данные для замены";
+
+/* operation type that replaces a file */
+"Replacing" = "Замена файла";
+
+/* No comment provided by engineer. */
+"Reset All" = "Сбросить все";
+
+/* No comment provided by engineer. */
+"Reset Default SubType" = "Сбросить подтип";
+
+/* No comment provided by engineer. */
+"Reset faces" = "Сбросить клавиши";
+
+/* No comment provided by engineer. */
+"Resolution will now apply" = "Разрешение будет применено";
+
+/* No comment provided by engineer. */
+"Respring" = "Перезапустить SpringBoard";
+
+/* respring info */
+"Respring is an action that allows restarting your Home Screen without rebooting your device." = "Перезапуск SpringBoard позволяет перезагружать экран «Домой» без полной перезагрузки устройства.";
+
+/* Respring to see changes */
+"Respring to see changes" = "Перезапустите SpringBoard, чтобы изменения вступили в силу.";
+
+/* No comment provided by engineer. */
+"Restore" = "Восстановить";
+
+/* restore button on custom operations */
+"Restoring original file..." = "Восстановление оригинального файла...";
+
+/* No comment provided by engineer. */
+"Run in background" = "Поддерживать работу твиков в фоновом режиме";
+
+/* No comment provided by engineer. */
+"Save" = "Сохранить";
+
+/* No comment provided by engineer. */
+"Save Settings" = "Сохранить настройки";
+
+/* Import passcode theme from saved */
+"Saved" = "Сохраненные темы";
+
+/* apply button on custom operations */
+"Saving operation..." = "Сохранение операции...";
+
+/* No comment provided by engineer. */
+"Scale:   %lld%%" = "Масштаб:   %lld%%";
+
+/* rebuilding icon cache */
+"Scheduling a rebuild" = "Пересборка...";
+
+/* No comment provided by engineer. */
+"Scheduling icon cache reset..." = "Сброс кэша иконок...";
+
+/* No comment provided by engineer. */
+"Screen Time Enabled" = "Экранное время";
+
+/* No comment provided by engineer. */
+"Screen time was successfully disabled, please reboot to finish application. You will be able to enable connection after restart." = "Функция «Экранное время» успешно отключена. Перезагрузите устройство, после чего Вы сможете подключиться к интернету.";
+
+/* Audio name */
+"Screenshot" = "Снимок экрана";
+
+/* c22dev's contribution */
+"ScreenTime Remover, Included Audio, Credits, and Card Changer" = "Удаление Экранного времени, звуки, авторы, редактор карт";
+
+/* No comment provided by engineer. */
+"Select" = "Выбрать";
+
+/* No comment provided by engineer. */
+"Select Font Pack" = "Выбрать";
+
+/* No comment provided by engineer. */
+"Select Image" = "Выбрать изображение";
+
+/* No comment provided by engineer. */
+"Selected" = "Выбранное";
+
+/* No comment provided by engineer. */
+"Selected: %lld" = "Выбрано: %lld";
+
+/* Audio name */
+"Sent Mail" = "Письмо отправлено";
+
+/* Audio name */
+"Sent Message" = "Сообщение отправлено";
+
+/* No comment provided by engineer. */
+"Set app switcher color" = "Цвет многозадачности";
+
+/* No comment provided by engineer. */
+"Set as Active" = "Использовать";
+
+/* No comment provided by engineer. */
+"Set badge color" = "Цвет наклеек";
+
+/* No comment provided by engineer. */
+"Set cc module color" = "Цвет модуля ЦУ";
+
+/* No comment provided by engineer. */
+"Set color" = "Цвет";
+
+/* No comment provided by engineer. */
+"Set dock color" = "Цвет панели Dock";
+
+/* No comment provided by engineer. */
+"Set expanded folder background color" = "Цвет фона папки";
+
+/* No comment provided by engineer. */
+"Set folder color" = "Цвет папки";
+
+/* No comment provided by engineer. */
+"Set notification banner color" = "Цвет баннера уведомления";
+
+/* No comment provided by engineer. */
+"Settings" = "Настройки";
+
+/* No comment provided by engineer. */
+"Shortcut Apps" = "Приложения Команд";
+
+/* No comment provided by engineer. */
+"Show Numeric Cellular Strength" = "Показывать числовую силу сигнала сотовых данных";
+
+/* No comment provided by engineer. */
+"Show Numeric WiFi Strength" = "Показывать числовую силу сигнала Wi-Fi";
+
+/* No comment provided by engineer. */
+"showCancelButtonOnThemingEnd" = "showCancelButtonOnThemingEnd";
+
+/* No comment provided by engineer. */
+"Sign up" = "Зарегистрироваться";
+
+/* No comment provided by engineer. */
+"Size not calculated" = "Размер не вычислен";
+
+/* Small passcode keys */
+"Small" = "Маленький";
+
+/* No comment provided by engineer. */
+"Software Version" = "Версия iOS";
+
+/* Title of tool */
+"Springboard Colors" = "Цвета SpringBoard";
+
+/* Title of tool */
+"Springboard Tools" = "Твики SpringBoard";
+
+/* No comment provided by engineer. */
+"SpringBoard Tools" = "Твики SpringBoard";
+
+/* No comment provided by engineer. */
+"Starting..." = "Запуск...";
+
+/* Title of tool */
+"Status Bar" = "Строка состояния";
+
+/* No comment provided by engineer. */
+"Status Bar Time Text" = "Время в строке состояния";
+
+/* No comment provided by engineer. */
+"Submit themes" = "Отправить темы";
+
+/* No comment provided by engineer. */
+"Success" = "Успешно";
+
+/* No comment provided by engineer. */
+"Success!" = "Успешно!";
+
+/* applying audio succeeded */
+"Successfully applied audio!" = "Звук успешно применен!";
+
+/* Successfully applied tweaks */
+"Successfully applied tweaks" = "Твики успешно применены";
+
+/* No comment provided by engineer. */
+"Supervised" = "Сделать устройство Supervised (обычно для Delay OTA)";
+
+/* No comment provided by engineer. */
+"Swipe to view different cards" = "Смахните, чтобы просмотреть разные карты";
+
+/* No comment provided by engineer. */
+"Tap a card to customize" = "Нажмите на карту, чтобы ее изменить";
+
+/* No comment provided by engineer. */
+"Tap on any key to edit \nits appearance" = "Нажмите на клавишу, чтобы ее изменить";
+
+/* No comment provided by engineer. */
+"Tap on icon you want to set as preferred for %@ (%@)" = "Нажмите на иконку, которую Вы хотите установить для %@ (%@)";
+
+/* No comment provided by engineer. */
+"Tap this notification to resume tweak applications." = "Нажмите на это уведомление, чтобы продолжить работу приложения.";
+
+/* No comment provided by engineer. */
+"Test: theme all icons using 1 icon" = "Тест: использовать 1 иконку для всех других";
+
+/* No comment provided by engineer. */
+"The app will quit." = "Приложение будет закрыто.";
+
+/* when an operation is restored */
+"The file was successfully restored!" = "Файл успешно восстановлен!";
+
+/* Saving imported audio */
+"The imported audio was successfully encoded and saved." = "Импортированный звук успешно сохранен.";
+
+/* Saving imported lock */
+"The imported lock was successfully saved." = "Импортированный значок замка успешно сохранен.";
+
+/* when an operation is applied */
+"The operation was successfully applied! The operation was not saved, only applied." = "Операция успешно применена! Только применена, не сохранена.";
+
+/* when an operation is deleted */
+"The operation was successfully deleted!" = "Операция успешно удалена!";
+
+/* when an operation is saved */
+"The operation was successfully saved!" = "Операция успешно сохранена!";
+
+/* No comment provided by engineer. */
+"The theme was successfully downloaded and saved!" = "Тема успешно загружена и сохранена!";
+
+/* failed to select icon */
+"Theme with the name (url.deletingPathExtension().lastPathComponent) already exists. Please rename the folder." = "Тема с именем (url.deletingPathExtension().lastPathComponent) уже существует. Выберите другое имя.";
+
+/* No comment provided by engineer. */
+"Themes" = "Темы";
+
+/* screentime process */
+"This could cause issues. Make sure to disable data or Wi-Fi." = "Это может привести к проблемам. Убедитесь, что сотовые данные или Wi-Fi отключены.";
+
+/* No comment provided by engineer. */
+"Toggle what services will run or apply when the app is in the background." = "Выберите, какие сервисы будут запускаться в фоновом режиме.";
+
+/* No comment provided by engineer. */
+"Tools" = "Твики";
+
+/* No comment provided by engineer. */
+"Translators" = "Переводчики";
+
+/* No comment provided by engineer. */
+"Tweak Options" = "Опции твиков";
+
+/* No comment provided by engineer. */
+"Type:" = "Тип:";
+
+/* Cannot delete audio (audio name is after) */
+"Unable to delete audio for audio" = "Не удалось удалить звук для";
+
+/* Failed to import lock */
+"Unable to save imported lock!" = "Не удалось сохранить импортированный значок замка!";
+
+/* No comment provided by engineer. */
+"Uncategorized" = "Без категории";
+
+/* Shown after successful theme set. */
+"Understood, Respring" = "Я понял, перезапустить SpringBoard";
+
+/* zhuowei's contribution */
+"Unsandboxing" = "Выход из Sandbox";
+
+/* No comment provided by engineer. */
+"Update Frequency" = "Частота обновления";
+
+/* No comment provided by engineer. */
+"Update Included Audio" = "Обновить список звуков";
+
+/* No comment provided by engineer. */
+"Upload File" = "Загрузить файл";
+
+/* No comment provided by engineer. */
+"Use Alternative Setter" = "Использовать другой способ установки";
+
+/* No comment provided by engineer. */
+"Use at your own risk" = "Используйте на свой страх и риск";
+
+/* No comment provided by engineer. */
+"Use Settings Footnote" = "Использовать сноску настроек";
+
+/* No comment provided by engineer. */
+"Use this if carrier/time text isn't applying. I would recommend you Reset to Defaults after turning on and saving." = "Используйте это, если название оператора/текст часов не изменяется. Рекомендуется вернуть стандартные настройки после применения этой.";
+
+/* No comment provided by engineer. */
+"Use this if your device is erroneously detecting TrollStore installed, and you do not have an Apply button at the top of the Status Bar page." = "Используйте это, если Ваше устройство ошибочно считает, что установлен TrollStore, и у Вас нет кнопки «Применить» во вкладке Строка состояния.";
+
+/* No comment provided by engineer. */
+"validate" = "Проверить";
+
+/* value for plist operation */
+"Value" = "Значение";
+
+/* App icon name - vector graphics */
+"Vector" = "Векторная графика";
+
+/* No comment provided by engineer. */
+"Version %@ (%@)" = "Версия %@ (%@)";
+
+/* No comment provided by engineer. */
+"View contents of blacklist files" = "Показать содержание файлов черных списков";
+
+/* No comment provided by engineer. */
+"Wait, it's all TrollTools?" = "Погоди, это все TrollTools?";
+
+/* No comment provided by engineer. */
+"When set to blank on notched devices, this will display the carrier name." = "Пустая строка на устройствах с челкой приведет к отображению названия оператора.";
+
+/* Title of tool */
+"Whitelist" = "Whitelist";
+
+/* BomberFish's contribution */
+"Whitelist, AirPower Audio, Various fixes" = "Whitelist, звук AirPower, различные исправления";
+
+/* Width of custom resolution
+   Width of passcode keys */
+"Width" = "Ширина";
+
+/* Message for apply passcode key size for all */
+"Would you like to apply this size for all currently active keys? Otherwise, it will only apply to new faces." = "Вы хотите применить этот размер для всех клавиш? В противном случае он будет применен только для новых.";
+
+/* No comment provided by engineer. */
+"x" = "x";
+
+/* No comment provided by engineer. */
+"X" = "X";
+
+/* No comment provided by engineer. */
+"xml" = "xml";
+
+/* No comment provided by engineer. */
+"Y" = "Y";
+
+/* Confirm apply for all (passcode keys) */
+"Yes" = "Да";
+
+/* No comment provided by engineer. */
+"YN" = "Д/Н";
+
+/* No comment provided by engineer. */
+"You do not have any saved passcode themes. Check out the explore tab to find some!" = "У Вас нет сохраненных тем клавиш. Загляните во вкладку Темы, чтобы их найти!";
+
+/* No comment provided by engineer. */
+"Your apps should now function properly" = "Сейчас приложения должны работать нормально";
+
+/* No comment provided by engineer. */
+"Your device is connected to internet!" = "Ваше устройство подключено к интернету!";
+
+/* No comment provided by engineer. */
+"Your device will respring." = "SpringBoard перезапустится.";
+
+/* No comment provided by engineer. */
+"Your device will respring.\n\n\nApplying using %@." = "SpringBoard перезапустится.\n\nСейчас используется %@.";
+
+/* No comment provided by engineer. */
+"Your Name" = "Ваше имя";
+

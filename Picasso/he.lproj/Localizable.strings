@@ -1,0 +1,1071 @@
+/* No comment provided by engineer. */
+"????" = "????";
+
+/* No comment provided by engineer. */
+"· %lld" = "· %lld";
+
+/* Recommended lock type */
+"(Recommended)" = "(מומלץ)";
+
+/* No comment provided by engineer. */
+"*Will also hide carrier name\n**Will also hide cellular data indicator" = "*גם יסתיר את שם הספק\n**גם יסתיר את סמן הגלישה הסלולרית";
+
+/* No comment provided by engineer. */
+"%lld bytes" = "%lld ביטים";
+
+/* No comment provided by engineer. */
+"⚠️ Warning ⚠️\nSome users have experienced bootloops using this feature. If you have not used it before, please proceed with caution." = "⚠️ אזהרה ⚠️\nחלק מהמשתמשים חוו bootloop  בשימוש בפיצ'ר הזה. אם לא השתמשת בזה לפני, השתמש בזהירות.";
+
+/* IMPORTANT alert when icons finish applying */
+"⚠️⬇ PLEASE READ ⬇⚠️\n\n After the phone resprings, please *reopen Picasso* to fix apps not functioning properly\n\nVERY IMPORTANT: If you see the apple logo and progress bar, do not worry, your device is fine. PLEASE DO NOT ATTEMPT TO FORCE REBOOT IT.\n\nElapsed time: (Double(Int(-timeStart.timeIntervalSinceNow * 100.0)) / 100.0)s" = "⚠️נא לקרוא⚠️\nאחרי שהטלפון מבצע respring, בבקשה *לפתוח מחדש את קוואבאנגה* בשביל לתקן אפליקציות שלא עובדות נכון\n\nחשוב מאוד: אם אתה רואה סמל של אפל ופס טעינה, אל תדאג, המכשיר שלך בסדר. אל תנסה לאתחל את המכשיר בכוח\n\nElapsed time: (Double(Int(-timeStart.timeIntervalSinceNow * 100.0)) / 100.0)s";
+
+/* Notification Badge Bubble text. (1 notification) */
+"1" = "1";
+
+/* No comment provided by engineer. */
+"Action" = "פעולה";
+
+/* No comment provided by engineer. */
+"Active" = "פועל";
+
+/* No comment provided by engineer. */
+"Add Value" = "הוסף ערך";
+
+/* No comment provided by engineer. */
+"Advanced" = "מתקדם";
+
+/* resetting all icons */
+"All app icons will be reverted to their original appearance. Are you sure you want to continue? (Reboot may be required)" = "כל האייקונים של האפליקציות יחזרו לנראות המקורית שלהם. אתה בטוח שאת רוצה להמשיך? (יכול להיות שצריך אתחול)";
+
+/* No comment provided by engineer. */
+"Alternatives" = "אלטרנטיבות";
+
+/* No comment provided by engineer. */
+"Always has been" = "Always has been";
+
+/* No comment provided by engineer. */
+"An error occured when applying face sizes." = "שגיאה התרחשה ביישום הגודל החיצוני";
+
+/* No comment provided by engineer. */
+"An error occured while changing key face." = "שגיאה התרחשה במהלך שינוי בגוגל המקש";
+
+/* Passcode export error */
+"An error occured while exporting key face." = "שגיאה התרחשה במהלך ייצוא המקשים ";
+
+/* No comment provided by engineer. */
+"An error occured." = "שגיאה התרחשה";
+
+/* No comment provided by engineer. */
+"An error occurred" = "שגיאה התרחשה";
+
+/* when an operation fails to apply */
+"An error occurred while applying the operation" = "שגיאה התרחשה ביישום הפעולה";
+
+/* when an operation fails to delete */
+"An error occurred while deleting the operation" = "שגיאה התרחשה במחיקת הפעולה";
+
+/* when an operation fails to restore */
+"An error occurred while restoring the files" = "שגיאה התרחשה בשחזור הקבצים";
+
+/* when an operation fails to save */
+"An error occurred while saving the operation" = "שגיאה התרחשה בשמירת הפעולה";
+
+/* Unable to enable app clips (NOT WEBCLIPS, if your language does not have a word for this then ignore) */
+"An error occurred while trying to disable appclip icons." = "שגיאה התרחשה בניסיון לבטל אייקונים של קליפאפליקציה";
+
+/* Unable to enable app clips (NOT WEBCLIPS, if your language does not have a word for this then ignore) */
+"An error occurred while trying to enable appclip icons." = "שגיאה התרחשה במהלך ניסיון להפעיל אייקונים של קליפאפליקציה";
+
+/* No comment provided by engineer. */
+"An error occurred while trying to enable extra settings." = "שגיאה התרחשה בניסיון להפעלי עוד הגדרות";
+
+/* No comment provided by engineer. */
+"App Stopped Running" = "האפליקציה הפסיקה לפעול";
+
+/* No comment provided by engineer. */
+"App Switcher" = "מחליף אפליקציות";
+
+/* No comment provided by engineer. */
+"App theme was successfully saved!" = "עיצוב האפליקציה נשמר בהצלחה!";
+
+/* fix tweaks info */
+"Applies all tweaks which were applied before." = "יישם את כל ההשינויים שיושמו בעבר";
+
+/* No comment provided by engineer. */
+"Apply" = "יישום";
+
+/* Header for apply passcode key size for all */
+"Apply for all?" = "ליישם להכל?";
+
+/* No comment provided by engineer. */
+"Apply in Background" = "יישם ברקע";
+
+/* No comment provided by engineer. */
+"Apply Once" = "יישם פעם אחת";
+
+/* No comment provided by engineer. */
+"Apply themes" = "יישם עיצובים";
+
+/* No comment provided by engineer. */
+"Apply Without Saving" = "יישם בלי לשמור";
+
+/* No comment provided by engineer. */
+"Applying fonts..." = "מיישם פונטים...";
+
+/* apply button on custom operations */
+"Applying operation..." = "יישם פעולות";
+
+/* No comment provided by engineer. */
+"Are you sure you want to reset the Default SubType?" = "אתה בטוח שאתה רוצה לשחזר להגדרות הנורמליות של סבטייפ?";
+
+/* Title of tool */
+"Audio" = "אודיו";
+
+/* No comment provided by engineer. */
+"Audio Changer" = "משנה אודיו";
+
+/* Header for inputting your name */
+"Author Name" = "שם היוצר";
+
+/* No comment provided by engineer. */
+"Auto respring after apply" = "תיקון אוטומטי אחרי יישום";
+
+/* No comment provided by engineer. */
+"Auto Update Included Audio" = "עדכון אוטומטי כולל אודיו";
+
+/* No comment provided by engineer. */
+"Background" = "רקע";
+
+/* No comment provided by engineer. */
+"Background Update Frequency" = "תדירות עדכון ברקע";
+
+/* No comment provided by engineer. */
+"Banned Apps" = "אפליקציות אסורות";
+
+/* No comment provided by engineer. */
+"Basic Configuration" = "סידור בסיסי";
+
+/* Audio name */
+"Begin Recording" = "התחל הקלטה";
+
+/* Big passcode keys */
+"Big" = "גדול";
+
+/* No comment provided by engineer. */
+"binary" = "binary";
+
+/* No comment provided by engineer. */
+"Blacklist" = "רשימה שחורה";
+
+/* No comment provided by engineer. */
+"Blacklist File Contents" = "הרשימה השחורה של תוכן הקבצים";
+
+/* No comment provided by engineer. */
+"Blur Enabled" = "תשטוש מופעל";
+
+/* No comment provided by engineer. */
+"Blur:   %lld" = "תשטוש:   %lld";
+
+/* No comment provided by engineer. */
+"Breadcrumb Text" = "טקסט פירורי לחם";
+
+/* No comment provided by engineer. */
+"Calculate Size" = "חשב גודל";
+
+/* Cancel */
+"Cancel" = "ביטול";
+
+/* Title of tool */
+"Card Changer" = "משנה כרטיסים";
+
+/* No comment provided by engineer. */
+"Carrier Text" = "טקסט הספק";
+
+/* No comment provided by engineer. */
+"Change" = "שנה";
+
+/* No comment provided by engineer. */
+"Change Breadcrumb Text" = "שינוי טקסט פירורי לחם";
+
+/* No comment provided by engineer. */
+"Change Carrier Text" = "שינוי טקסט ספק";
+
+/* No comment provided by engineer. */
+"Change Status Bar Time Text" = "שינוי סטטוס וטקסט זמן";
+
+/* Audio name */
+"Charging" = "הטענה";
+
+/* No comment provided by engineer. */
+"Choose a device subtype" = "בחר את תת קטגוריית המכשיר";
+
+/* Title for lock preference */
+"Choose a lock preference" = "בחר את סוג הנעילה";
+
+/* No comment provided by engineer. */
+"Choose a name for the category" = "בחר שם לקטגוריה";
+
+/* No comment provided by engineer. */
+"Choose a name for the font pack" = "בחר שם בשביל חבילת הפונטים";
+
+/* No comment provided by engineer. */
+"Choose a name for the lock" = "בחר שם בשביל הנעילה";
+
+/* Entering name for audio */
+"Choose a name for the sound" = "בחר שם בשביל הסאונד";
+
+/* No comment provided by engineer. */
+"Choose a plist type" = "בחר את סוג רשימה התכונות";
+
+/* Choose a size for passcode keys */
+"Choose a size" = "בחר גודל";
+
+/* No comment provided by engineer. */
+"Choose a value type" = "בחר סוג ערך";
+
+/* No comment provided by engineer. */
+"Choose an operation type" = "בחר סוג פעולה";
+
+/* Title for choosing background update interval */
+"Choose an update option" = "בחר אופציה לעדכון אוטומטי";
+
+/* No comment provided by engineer. */
+"Choose app Icon" = "בחר אייקון אפליקציה";
+
+/* No comment provided by engineer. */
+"Choose size" = "בחר גודל";
+
+/* No comment provided by engineer. */
+"Clear image" = "אפס תמונה";
+
+/* No comment provided by engineer. */
+"Close" = "סגור";
+
+/* operation type that changes colors */
+"Color" = "צבע";
+
+/* No comment provided by engineer. */
+"Color Data" = "מידע צבע";
+
+/* No comment provided by engineer. */
+"Configuration" = "סידור";
+
+/* No comment provided by engineer. */
+"Confirm" = "אישור";
+
+/* Category of tool */
+"Control Center" = "מרכז שליטה";
+
+/* operation type that corrupts/disables the file */
+"Corrupting" = "משחית";
+
+/* No comment provided by engineer. */
+"Could not calculate plist size!" = "לא הצליח לחשב את גודל רשימת התכונות";
+
+/* when color styles could not be determined */
+"Could not detect styles." = "לא הצליח לזהות סטייל.";
+
+/* No comment provided by engineer. */
+"Could not download theme!" = "לא הצליח להוריד עיצוב!";
+
+/* No comment provided by engineer. */
+"Couldn't get url of file. Did you select it?" = "לא מצליח להשיג url של קובץ. בחרת אותו?";
+
+/* No comment provided by engineer. */
+"Couldn't get url of folder. Did you select it?" = "לא מצליח להשיג url של תיקייה. בחרת אותה?";
+
+/* No comment provided by engineer. */
+"Picasso" = "קוואבאנגה";
+
+/* No comment provided by engineer. */
+"Picasso %@" = "קוואבאנגה %@";
+
+/* No comment provided by engineer. */
+"Picasso App Icon" = "אייקון אפליקצית קוואבאנגה";
+
+/* No comment provided by engineer. */
+"Picasso requires “Always” location permission." = "קוואבאנגה מצריך אישור תמידי של מיקום.";
+
+/* No comment provided by engineer. */
+"Create" = "צור";
+
+/* No comment provided by engineer. */
+"Create Operation" = "צור פעולה";
+
+/* No comment provided by engineer. */
+"Credits" = "קרדיט";
+
+/* No comment provided by engineer. */
+"Currently to submit themes for other people to see and use, we have to review them on our Discord in #showcase channel." = "ברגע זה, בשביל להגיש נושאים בשביל אנשים אחרים לראות ולהשתמש בהם, אנחנו צריכים לבדוק אותם בדיסקורד שלנו ב#sowcase ";
+
+/* Custom size for passcode keys */
+"Custom" = "מעוצב אישית";
+
+/* No comment provided by engineer. */
+"Custom image" = "תמונה בעיצוב אישי";
+
+/* Title of tool */
+"Custom Operations" = "עיצוב פעולות";
+
+/* App icon name
+   default device subtype
+   Default passcode size */
+"Default" = "ברירת מחדל";
+
+/* Audio name */
+"Default Notifications" = "הודעות ברירת מחדל";
+
+/* No comment provided by engineer. */
+"Delete" = "מחק";
+
+/* No comment provided by engineer. */
+"Delete Shortcut Banners" = "מחק באנר של קיצורים";
+
+/* No comment provided by engineer. */
+"Deleting" = "מוחק";
+
+/* delete button on custom operations */
+"Deleting operation..." = "מוחק פעולות";
+
+/* No comment provided by engineer. */
+"Dialer Face Editor" = "עורך מקשי חיוג";
+
+/* No comment provided by engineer. */
+"Dialer keys successfully cleared!" = "מגשי החיוג נוקו בהצלחה!";
+
+/* No comment provided by engineer. */
+"Disable" = "בטל";
+
+/* Springboard tool */
+"Disable App Switcher Blur" = "בטל תשטוש של מחליף אפליקציות";
+
+/* Springboard tool */
+"Disable CC Module Background" = "בטל רקע של מודול במרכז השליטה";
+
+/* Springboard tool */
+"Disable Folder Background" = "בטל רקע של תיקיות";
+
+/* Springboard tool */
+"Disable Folder Blur" = "בטל תשטוש של תיקיות";
+
+/* Springboard tool */
+"Disable Library Pods Background" = "בטל רקע של תרמיליי ספרייה";
+
+/* No comment provided by engineer. */
+"Disable Shortcut Apps as Appclips" = "בטל אפליקציות קיצור דרך כקליפאפליקציות";
+
+/* Run in background option */
+"Dock" = "דוק";
+
+/* No comment provided by engineer. */
+"Download themes in Themes tab." = "תוריד עיצובים בדף העיצובים";
+
+/* iPhone 14 Pro SubType */
+"Dynamic Island" = "אי דינמי";
+
+/* iPhone 14 Pro Max SubType */
+"Dynamic Island Pro Max" = "אי דינמי פרו מקס";
+
+/* matteozappia's contribution */
+"Dynamic Island SubTypes" = "אי דינמי תת קטגוריית מכשיר";
+
+/* No comment provided by engineer. */
+"Editing %@" = "עורך %@";
+
+/* No comment provided by engineer. */
+"Email" = "אימייל";
+
+/* No comment provided by engineer. */
+"Enable" = "הפעל";
+
+/* No comment provided by engineer. */
+"Enable Shortcut Apps as Appclips" = "הפעל אפליקציות קיצור דרך כקליפאפליקציות";
+
+/* No comment provided by engineer. */
+"Enabled" = "מופעל";
+
+/* Audio name */
+"End Recording" = "הפסק הקלטה";
+
+/* Entering custom resolution */
+"Enter Dimensions" = "הכנס ממדים";
+
+/* dimensions for passcode keys */
+"Enter Key Dimensions" = "הכנס ממדיי מקש";
+
+/* No comment provided by engineer. */
+"Enter Name" = "הכנס שם";
+
+/* No comment provided by engineer. */
+"Error" = "שגיאה";
+
+/* Error occured while fetching themes */
+"Error occured while fetching themes" = "שגיאה התרחשה בזמן ייבוא העיצוב";
+
+/* No comment provided by engineer. */
+"Errors occurred while setting some icons" = "שגיאה התרחשה בזמן יישום האייקונים";
+
+/* No comment provided by engineer. */
+"Exaple" = "דוגמה";
+
+/* ginsudev's contribution */
+"Exploit Code" = "קוד ניצול חולשות";
+
+/* No comment provided by engineer. */
+"Explore" = "דף חקירה";
+
+/* No comment provided by engineer. */
+"Extra Preferences" = "אקסטרה הגדרות";
+
+/* Failed to apply audio */
+"Failed to apply audio for:" = "לא הצליח ליישם אודיו בשביל: ";
+
+/* failed to apply subtype */
+"Failed to apply Device SubType!" = "לא הצליח ליישם תת מכשיר!";
+
+/* Failing to apply custom resolution */
+"Failed to apply resolution:" = "לא הצליח ליישם איכות: ";
+
+/* No comment provided by engineer. */
+"Failed to apply system version change! The version must be shorter than your current device version.\n\n(error.localizedDescription)" = "לא הצליח ליישם את שינוי גרסת המערכת! הגרסה צריכה להיות קצרה יותר מהגרסה הנוכחית של המכשיר.\n\n(error.localizedDescription)";
+
+/* when the category cannot be created */
+"Failed to create category" = "לא הצליח ליצור קטגוריה";
+
+/* No comment provided by engineer. */
+"Failed to load operations." = "לא הצליח לטעון פעולות";
+
+/* No comment provided by engineer. */
+"Failed to save theme!" = "לא הצליח לשמור עיצוב";
+
+/* No comment provided by engineer. */
+"File not found!" = "קובץ לא נמצא";
+
+/* No comment provided by engineer. */
+"File:" = "קובץ:";
+
+/* Import passcode theme from files */
+"Files" = "קבצים";
+
+/* No comment provided by engineer. */
+"Fix tweaks" = "תקן שיניים";
+
+/* No comment provided by engineer. */
+"Fixing apps..." = "מתקן אפליקציות...";
+
+/* No comment provided by engineer. */
+"Folder" = "תיקייה";
+
+/* No comment provided by engineer. */
+"Footnote" = "הערת שוליים";
+
+/* No comment provided by engineer. */
+"Force MacDirtyCOW" = "אלץ MacDirtyCOW";
+
+/* No comment provided by engineer. */
+"Forgot password?" = "שכחת סיסמה?";
+
+/* Frequent */
+"Frequent" = "שכיח";
+
+/* Where to import passcode theme from */
+"From where do you want to import from?" = "מאיפה אתה רוצה לייבא?";
+
+/* header for resetting all icons */
+"Full reset" = "איפוס מלא";
+
+/* No comment provided by engineer. */
+"Gestures / Dynamic Island" = "סימנים / אי דינמי";
+
+/* No comment provided by engineer. */
+"Go here if something isn't working correctly." = "לך לפה אם משהו לא עובד כמו שצריך.";
+
+/* Height of custom resolution
+   Height of passcode keys */
+"Height" = "גובה";
+
+/* No comment provided by engineer. */
+"Hide Airplane Mode" = "הסתר מצב טיבה";
+
+/* No comment provided by engineer. */
+"Hide AirPlay" = "הסתר ניגון אוויר";
+
+/* No comment provided by engineer. */
+"Hide Alarm" = "הסתר שעון מעורר";
+
+/* No comment provided by engineer. */
+"Hide Battery" = "הסתר סוללה";
+
+/* No comment provided by engineer. */
+"Hide Bluetooth" = "הסתר בלוטוט'";
+
+/* No comment provided by engineer. */
+"Hide CarPlay" = "הסתר ניגון רכב";
+
+/* No comment provided by engineer. */
+"Hide Cellular*" = "הסתר סלולר*";
+
+/* No comment provided by engineer. */
+"Hide Do Not Disturb" = "הסתר נא לא להפריע";
+
+/* Springboard tool */
+"Hide Dock" = "הסתר דוק";
+
+/* Springboard tool */
+"Hide Home Bar" = "הסתר פס בית";
+
+/* No comment provided by engineer. */
+"Hide Location" = "הסתר מיקום";
+
+/* Springboard tool */
+"Hide Notification Banner Background" = "הסתר באנר התראות";
+
+/* No comment provided by engineer. */
+"Hide Rotation Lock" = "הסתר נעילת סיבוב";
+
+/* No comment provided by engineer. */
+"Hide Status Bar Time" = "הסתר זמן פס סטטוס";
+
+/* No comment provided by engineer. */
+"Hide VPN" = "הסתר VPN";
+
+/* No comment provided by engineer. */
+"Hide Wi-Fi**" = "הסתר וייפיי**";
+
+/* No comment provided by engineer. */
+"Home" = "בית";
+
+/* Category of tool */
+"Home Screen" = "מסך בית";
+
+/* No comment provided by engineer. */
+"I'm not a robot (no cap)" = "אני לא רובוט (אין כובע)";
+
+/* No comment provided by engineer. */
+"Icons" = "אייקונים";
+
+/* No comment provided by engineer. */
+"Icons override" = "החלף אייקונים";
+
+/* Description for lock preference */
+"If the custom lock does not apply for you, try another option." = "אם נעילה מותאמת לא עובדת בשבילך, נסה אופציה אחרת";
+
+/* Header for importing passcode theme */
+"Import Passcode Theme" = "ייבא מסך נעילה מותאם אישית";
+
+/* No comment provided by engineer. */
+"In progress..." = "בתהליך...";
+
+/* A joke about users being able to join Discord while they wait for Picasso to finish theming. "In the meantime you can Join Discord" is the text for button */
+"In the meantime you can ..." = "בזמן הזה, אתה יכול ...";
+
+/* No comment provided by engineer. */
+"Included" = "כלול";
+
+/* fix tweaks info header
+   respring info header */
+"Info" = "מידע";
+
+/* Header for inputting custom iOS version */
+"Input Software Version" = "ייבא גרסת תוכנה";
+
+/* x gestures */
+"iPhone X Gestures" = "סימניי אייפון X";
+
+/* No comment provided by engineer. */
+"Join Discord" = "הצטרף לדיסקורד";
+
+/* key for plist operation */
+"Key" = "מפתח";
+
+/* Audio name */
+"Keyboard Press Clear" = "לחץ על ניקוי במקלדת";
+
+/* Audio name */
+"Keyboard Press Delete" = "לחץ על מחק במקלדת";
+
+/* Audio name */
+"Keyboard Press Normal" = "לחיצה נורמלית במקלדת";
+
+/* Audio name */
+"Lock" = "נעל";
+
+/* Category of tool */
+"Lock Screen" = "מסך נעילה";
+
+/* Title of tool */
+"Lock Screen Footnote" = "הערת שוליים של מסך הנעילה";
+
+/* No comment provided by engineer. */
+"Lock Screen Footnote Changer" = "שינוי הערת שוליים של מסך הנעילה";
+
+/* No comment provided by engineer. */
+"Lock Type" = "סוג נעילה";
+
+/* Title of tool */
+"Locks" = "נעילות";
+
+/* No comment provided by engineer. */
+"Log in" = "התחברות";
+
+/* No comment provided by engineer. */
+"Log in Sourced" = "התחברות ממיקום מוגדר";
+
+/* Audio name */
+"Low Power" = "סוללה נמוכה";
+
+/* leminlimez's contribution
+   sourcelocation's contribution */
+"Main Developer" = "מפתח ראשי";
+
+/* No comment provided by engineer. */
+"Make It So, Number One" = "Make It So, Number One";
+
+/* Maximum passcode key size */
+"Max:" = "מקסימום:";
+
+/* Minimum passcode key size */
+"Min:" = "מינימום:";
+
+/* Title of tool */
+"Miscellaneous" = "אחר";
+
+/* No comment provided by engineer. */
+"More Settings" = "עוד הגדרות";
+
+/* No comment provided by engineer. */
+"Name" = "שם";
+
+/* No comment provided by engineer. */
+"Name:" = "שם:";
+
+/* No comment provided by engineer. */
+"New Category" = "קטגוריה חדשה";
+
+/* Audio name */
+"New Mail" = "מייל חדש";
+
+/* No comment provided by engineer. */
+"New theme name" = "שם קטגורייה חדש";
+
+/* Decline apply for all (passcode keys) */
+"No" = "לא";
+
+/* No comment provided by engineer. */
+"No Cards Found" = "לא נמצאו כרטיסים";
+
+/* No comment provided by engineer. */
+"No respring required to apply." = "אין צורך לטעון מחדש גרפיקה בשביל ליישם.";
+
+/* No comment provided by engineer. */
+"No themes containing icons for %@ (%@) have been found." = "אף עיצוב שמכיל את האייקונים ל%@ (%@) נמצא";
+
+/* No comment provided by engineer. */
+"No themes found. Download themes in the Explore tab,\nor import them using the button in the top right corner (Themes have to contain icons in the format of <id>.png)." = "לא נמצאו עיצובים.\nהורד עיצובים מדף העיצובים,\nאו שתייבא אותם עם הכפתור הפינה הימנית למעלה (עיצובים יכולים להכיל אייקונים בפורמט <id>.png). ";
+
+/* Not a valid size input for passcode keys */
+"Not a valid size!" = "גודל לא תקף";
+
+/* No comment provided by engineer. */
+"Notification Banner" = "באנר הודעות";
+
+/* No comment provided by engineer. */
+"OK" = "אוקיי";
+
+/* No comment provided by engineer. */
+"Open Settings" = "פתח הגדרות";
+
+/* No comment provided by engineer. */
+"Operation Name" = "שם הפעולה";
+
+/* No comment provided by engineer. */
+"Options" = "אופציות";
+
+/* Category of tool */
+"Other" = "אחר";
+
+/* No comment provided by engineer. */
+"Overwrite Banned Apps" = "תחליף אפליקציות אסורות";
+
+/* No comment provided by engineer. */
+"Overwrite Blacklist" = "תחליף את הרשימה השחורה";
+
+/* No comment provided by engineer. */
+"Overwrite CDHashes" = "תחליף את הCDHashes";
+
+/* No comment provided by engineer. */
+"Passcode Face Editor" = "עורך נראות מסך נעילה";
+
+/* Title of tool */
+"Passcode Faces" = "נראות מסך נעילה";
+
+/* No comment provided by engineer. */
+"Passcodes" = "סיסמות";
+
+/* No comment provided by engineer. */
+"Password" = "סיסמה";
+
+/* No comment provided by engineer. */
+"Path" = "נתיב";
+
+/* No comment provided by engineer. */
+"Path:" = "נתיב:";
+
+/* Audio name */
+"Payment Failed" = "תשלום נכשל";
+
+/* Audio name */
+"Payment Received" = "תשלום התקבל";
+
+/* Audio name */
+"Payment Success" = "שולם בהצלחה";
+
+/* No comment provided by engineer. */
+"Please close and reopen the Phone app." = "בבקשה תסגור ותפתח מחדש את אפליקצית הטלפון.";
+
+/* when user enters a category name that cannot be used */
+"Please enter a valid category name!" = "בבקשה תזין שם קטגוריה תקין!";
+
+/* No comment provided by engineer. */
+"Please grant Picasso “Always” location permission in Settings so it can run in the background indefinitely." = "קוואבאנגה מצריך מיקום תמידי בשביל לרוץ ברקע שלי לעצור";
+
+/* No comment provided by engineer. */
+"Please log into your Sourced Repo account to continue" = "Please log into your Sourced Repo account to continue";
+
+/* No comment provided by engineer. */
+"Please respring to finish applying changes." = "בבקשה תבצע respring בשביל לגמור להגדיר שינויים.";
+
+/* respring to hear audio changes */
+"Please respring to hear changes." = "בבקשה תבצע repsring בשביל לשמוע שינויים.";
+
+/* No comment provided by engineer. */
+"Please respring to see changes." = "בבקשה תבצע repsring בשביל לראות שינויים.";
+
+/* No comment provided by engineer. */
+"Please select a file to import!" = "בבקשה תבחר את הקובץ לייבוא!";
+
+/* No comment provided by engineer. */
+"Please wait" = "בבקשה תחכה";
+
+/* No comment provided by engineer. */
+"Please wait for Picasso to finish theming..." = "בבקשה תחכה בשביל קוואבאנגה לגמור לעצב...";
+
+/* No comment provided by engineer. */
+"Please wait..." = "בבקשה תחכה...";
+
+/* operation type that changes plist keys */
+"Plist" = "רשימת תכונות";
+
+/* No comment provided by engineer. */
+"Plist Data" = "מידע רשימת התכונות";
+
+/* No comment provided by engineer. */
+"Plist Properties" = "תכונות רשימת התכונות";
+
+/* No comment provided by engineer. */
+"Plist Type:" = "סוג רשימה התכונות:";
+
+/* Power Saving */
+"Power Saving" = "חיסכון בסוללה";
+
+/* No comment provided by engineer. */
+"Preferences" = "הגדקות";
+
+/* No comment provided by engineer. */
+"Rebuild Icon Cache" = "תבנה מחדש את מטמון האייקונים";
+
+/* Audio name */
+"Received Message" = "הודעה התקבלה";
+
+/* No comment provided by engineer. */
+"Remove all" = "הסר הכל";
+
+/* No comment provided by engineer. */
+"Remove theme" = "הסר עיצוב";
+
+/* No comment provided by engineer. */
+"Rename" = "שנה שם";
+
+/* Entering new theme name */
+"Rename theme" = "שנה את שם העיצוב";
+
+/* No comment provided by engineer. */
+"Replace With:" = "החלף עם:";
+
+/* No comment provided by engineer. */
+"Replacement Data" = "החלף מידע";
+
+/* operation type that replaces a file */
+"Replacing" = "משנה";
+
+/* No comment provided by engineer. */
+"Reset All" = "שחזר הכל";
+
+/* No comment provided by engineer. */
+"Reset Default SubType" = "שחזר subtype ";
+
+/* No comment provided by engineer. */
+"Reset faces" = "שחזר מקשי נעילה";
+
+/* No comment provided by engineer. */
+"Respring" = "Respring";
+
+/* Respring to see changes */
+"Respring to see changes" = "בצע Respring בשביל לראות שינויים";
+
+/* No comment provided by engineer. */
+"Restore" = "שחזר";
+
+/* restore button on custom operations */
+"Restoring original file..." = "משחזר את הקובץ המקורי";
+
+/* No comment provided by engineer. */
+"Run in background" = "פעולה ברקע";
+
+/* No comment provided by engineer. */
+"Save" = "שמור";
+
+/* No comment provided by engineer. */
+"Save Settings" = "שמור הגדקות";
+
+/* Import passcode theme from saved */
+"Saved" = "נשמר";
+
+/* apply button on custom operations */
+"Saving operation..." = "שומר פעולות.";
+
+/* rebuilding icon cache */
+"Scheduling a rebuild" = "מתזמן את הבנייה מחדש";
+
+/* No comment provided by engineer. */
+"Scheduling icon cache reset..." = "מתזמן את איפוס מטמון האייקונים";
+
+/* Audio name */
+"Screenshot" = "צילום מסך";
+
+/* No comment provided by engineer. */
+"Select" = "בחר";
+
+/* No comment provided by engineer. */
+"Selected" = "נבחר";
+
+/* Audio name */
+"Sent Mail" = "מייל נשלח";
+
+/* Audio name */
+"Sent Message" = "הודעה נשלחה";
+
+/* No comment provided by engineer. */
+"Set app switcher color" = "קבע צבע של משנה אפליקציות";
+
+/* No comment provided by engineer. */
+"Set badge color" = "קבע צבע בועת הודעות";
+
+/* No comment provided by engineer. */
+"Set dock color" = "קבע צבע דוק";
+
+/* No comment provided by engineer. */
+"Set expanded folder background color" = "Set expanded folder background color";
+
+/* No comment provided by engineer. */
+"Set folder color" = "קבע צבע תיקיות";
+
+/* No comment provided by engineer. */
+"Set notification banner color" = "קבע את צבע באנר ההודעות.";
+
+/* No comment provided by engineer. */
+"Settings" = "הגדרות";
+
+/* No comment provided by engineer. */
+"Shortcut Apps" = "אפליקציות קיצורי דרך";
+
+/* No comment provided by engineer. */
+"Sign up" = "הרשם";
+
+/* No comment provided by engineer. */
+"Size not calculated" = "גודל לא חושב";
+
+/* Small passcode keys */
+"Small" = "קטן";
+
+/* No comment provided by engineer. */
+"Software Version" = "גרסת תוכנה";
+
+/* Title of tool */
+"Springboard Colors" = "צבעי Springboard";
+
+/* Title of tool */
+"Springboard Tools" = "כלי Springboard";
+
+/* No comment provided by engineer. */
+"SpringBoard Tools" = "כלי SpringBoard";
+
+/* No comment provided by engineer. */
+"Starting..." = "מתחיל...";
+
+/* Title of tool */
+"Status Bar" = "פס סטטוס";
+
+/* No comment provided by engineer. */
+"Status Bar Time Text" = "טקסט זמן בפס סטטוס";
+
+/* No comment provided by engineer. */
+"Submit themes" = "שלח עיצוב";
+
+/* No comment provided by engineer. */
+"Success" = "הצלחה";
+
+/* No comment provided by engineer. */
+"Success!" = "הצלחה!";
+
+/* applying audio succeeded */
+"Successfully applied audio!" = "יישם סאונד בהצלחה!";
+
+/* Successfully applied tweaks */
+"Successfully applied tweaks" = "שינויים ייושמו בהצלחה";
+
+/* No comment provided by engineer. */
+"Supervised" = "מפוקח";
+
+/* No comment provided by engineer. */
+"Swipe to view different cards" = "תחליק בשביל לראות קלפים אחרים";
+
+/* No comment provided by engineer. */
+"Tap a card to customize" = "תלחץ על קלף בשביל לעצב אותו";
+
+/* No comment provided by engineer. */
+"Tap on any key to edit \nits appearance" = "תלחץ על כל מקש בשביל לערוך את הנראות שלו";
+
+/* No comment provided by engineer. */
+"Tap this notification to resume tweak applications." = "תלחץ על ההודעה הזאת בשביל להמשיך תיקון אפליקציות.";
+
+/* No comment provided by engineer. */
+"The app will quit." = "האפליקציה תסגר.";
+
+/* when an operation is restored */
+"The file was successfully restored!" = "הקובץ שוחזר בהצלחה!";
+
+/* Saving imported audio */
+"The imported audio was successfully encoded and saved." = "הסאונד המיובא הוצפן ונשמר בהצלחה.";
+
+/* Saving imported lock */
+"The imported lock was successfully saved." = "מסך הנעילה המיובא נשמר בהצלחה";
+
+/* when an operation is applied */
+"The operation was successfully applied! The operation was not saved, only applied." = "הפעולה ייושמה בהצלחה! הפעולה לא נשמרה, רק יושמה.";
+
+/* when an operation is deleted */
+"The operation was successfully deleted!" = "הפעולה נמחקה בהצלחה!";
+
+/* when an operation is saved */
+"The operation was successfully saved!" = "הפעולה נשמרה בהצלחה!";
+
+/* failed to select icon */
+"Theme with the name (url.deletingPathExtension().lastPathComponent) already exists. Please rename the folder." = "העיצוב עם השםurl.deletingPathExtension().lastPathComponent) כבר קיים. בבקשה תשנה את שם התיקייה.";
+
+/* No comment provided by engineer. */
+"Themes" = "עיצובים";
+
+/* No comment provided by engineer. */
+"Tools" = "כלים";
+
+/* No comment provided by engineer. */
+"Translators" = "מתרגמים";
+
+/* No comment provided by engineer. */
+"Tweak Options" = "אופציות תיקונים";
+
+/* No comment provided by engineer. */
+"Type:" = "סוג:";
+
+/* Cannot delete audio (audio name is after) */
+"Unable to delete audio for audio" = "לא הצליח למחוק את הסאונד";
+
+/* Failed to import lock */
+"Unable to save imported lock!" = "לא הצליח לשמור את מסך הנעילה המיובא!";
+
+/* No comment provided by engineer. */
+"Uncategorized" = "חסר קטגוריה";
+
+/* Shown after successful theme set. */
+"Understood, Respring" = "מובן, מבצע respring";
+
+/* zhuowei's contribution */
+"Unsandboxing" = "Unsandboxing";
+
+/* No comment provided by engineer. */
+"Update Included Audio" = "העדכון כולל סאונד";
+
+/* No comment provided by engineer. */
+"Upload File" = "תעלה קובץ";
+
+/* No comment provided by engineer. */
+"Use Alternative Setter" = "תשתמש במיישם אלטרנטיבי";
+
+/* No comment provided by engineer. */
+"Use at your own risk" = "השימוש על אחריותך בלבד";
+
+/* No comment provided by engineer. */
+"Use this if carrier/time text isn't applying. I would recommend you Reset to Defaults after turning on and saving." = "תשתמש בזה אם טקסט הספק/הזמן לא מיושם. אני ממליץ לאתחל להגדרות הראשוניות אחרי שמפעילים ושומרים";
+
+/* No comment provided by engineer. */
+"Use this if your device is erroneously detecting TrollStore installed, and you do not have an Apply button at the top of the Status Bar page." = "תשתמש בזה אם המחשיר שלך בטעות גילה שTrollStore מותקן, ואתה לא חייב להשתמש בכפתור היישום בקצה של דף פס הסטטוס";
+
+/* No comment provided by engineer. */
+"validate" = "אמת";
+
+/* value for plist operation */
+"Value" = "ערך";
+
+/* No comment provided by engineer. */
+"Version %@ (%@)" = "גירסה %@ (%@)";
+
+/* No comment provided by engineer. */
+"View contents of blacklist files" = "תראה את התוכן של הרשימה השחורה";
+
+/* No comment provided by engineer. */
+"Wait, it's all TrollTools?" = "רגע, זה הכל TrollTools?";
+
+/* No comment provided by engineer. */
+"When set to blank on notched devices, this will display the carrier name." = "כשנקבע בלי ערך במכשירים עם notch, זה יראה את השם של הספק";
+
+/* Title of tool */
+"Whitelist" = "הרשימה הלבנה";
+
+/* BomberFish's contribution */
+"Whitelist, AirPower Audio, Various fixes" = "הרשימה הלבנה, סאונד כוח אוויר, הרבה תיקונים";
+
+/* Width of custom resolution
+   Width of passcode keys */
+"Width" = "רוחב";
+
+/* Message for apply passcode key size for all */
+"Would you like to apply this size for all currently active keys? Otherwise, it will only apply to new faces." = "האם ברצונך ליישם את הגודל הזה לכל המקשים הפעילים? אם לא, זה ייושם רק למקשים החדשים";
+
+/* No comment provided by engineer. */
+"x" = "x";
+
+/* No comment provided by engineer. */
+"X" = "X";
+
+/* No comment provided by engineer. */
+"xml" = "xml";
+
+/* No comment provided by engineer. */
+"Y" = "Y";
+
+/* Confirm apply for all (passcode keys) */
+"Yes" = "כן";
+
+/* No comment provided by engineer. */
+"You do not have any saved passcode themes. Check out the explore tab to find some!" = "אין לך שום עיצובים של מסכי נעילה שמורים. תראה את דף החקירה בשביל למצוא כמה!";
+
+/* No comment provided by engineer. */
+"Your apps should now function properly" = "האפליקציות שלך אמורות לעבוד כרגיל עכשיו";
+
+/* No comment provided by engineer. */
+"Your device will respring." = "המכשיר שלך יבצע respring";
+
+/* No comment provided by engineer. */
+"Your device will respring.\n\n\nApplying using %@." = "המכשיר שלך יבצע respring. \n\nמיישם בעזרת %@.";
+

@@ -1,0 +1,42 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Picasso";
+
+/* Bundle name */
+"CFBundleName" = "Picasso";
+
+/* (No Comment) */
+"Picasso Operation" = "Picasso Operation";
+
+/* (No Comment) */
+"FileSwitcherPro Item" = "FileSwitcherPro Item";
+
+/* (No Comment) */
+"Icon Theme" = "Motyw ikon";
+
+/* Privacy - Media Library Usage Description */
+"NSAppleMusicUsageDescription" = "Daj uprawnienia sandbox'owi (potrzebuje tego do Passcode keys oraz innych opcji)";
+
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Picasso dziala w tle, upewnij sie, że tweak'i dalej dzialaja. Zazwyczaj iOS zamyka takie aplikacje po jakims czasie, ale Picasso oszukuje iOS poprzez proszenie o dane lokalizacyjne, dzieki temu pozwala na znacznie dłuższe dzialanie. Dane nie sa nigdzie zbierane, tylko chwilowo pobierane.";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Picasso dziala w tle, upewnij sie, ze tweak'i dalej dzialaja. Zazwyczaj iOS zamyka takie aplikacje po jakims czasie, ale Picasso oszukuje iOS poprzez proszenie o dane lokalizacyjne, dzieki temu pozwala na znacznie dłuższe dzialanie. Dane nie sa nigdzie zbierane, tylko chwilowo pobierane.";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Zdjęcia";
+
+/* (No Comment) */
+"OpenType font" = "OpenType font";
+
+/* (No Comment) */
+"Passcode Theme File" = "Passcode theme file";
+
+/* (No Comment) */
+"Theme Archive File" = "Theme archive file";
+
+/* (No Comment) */
+"TrueType collection" = "Kolekcja TrueType";
+
+/* (No Comment) */
+"TrueType font" = "czcionka TrueType";
+

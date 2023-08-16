@@ -1,0 +1,42 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Picasso";
+
+/* Bundle name */
+"CFBundleName" = "Picasso";
+
+/* (No Comment) */
+"Picasso Operation" = "Picasso 작업";
+
+/* (No Comment) */
+"FileSwitcherPro Item" = "FileSwitcherPro 아이템";
+
+/* (No Comment) */
+"Icon Theme" = "아이콘 테마";
+
+/* Privacy - Media Library Usage Description */
+"NSAppleMusicUsageDescription" = "필수 권한입니다.\n허용하지 않으면 앱을 정상적으로 사용할 수 없습니다.\n허용하지 않으면 앱을 재설치 해야합니다.";
+
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Picasso는 트윅을 유지하기위해 \"항상\" 위치서비스를 필요로 합니다.\n위치데이터는 어디에도 저장되지 않습니다.";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Picasso는 트윅을 유지하기위해 \"항상\" 위치서비스를 필요로합니다.\n위치정보는 어디에도 저장되지 않습니다.";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "사진이 필요합니다.";
+
+/* (No Comment) */
+"OpenType font" = "오픈타입 폰트(.otf)";
+
+/* (No Comment) */
+"Passcode Theme File" = "버튼 테마 파일";
+
+/* (No Comment) */
+"Theme Archive File" = "테마 압축파일";
+
+/* (No Comment) */
+"TrueType collection" = "트루타입 모음(.ttc)";
+
+/* (No Comment) */
+"TrueType font" = "트루타입 폰트(.ttf)";
+

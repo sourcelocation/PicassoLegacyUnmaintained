@@ -1,0 +1,1305 @@
+/* No comment provided by engineer. */
+"????" = "????";
+
+/* No comment provided by engineer. */
+"· %lld" = "· %lld";
+
+/* Recommended lock type */
+"(Recommended)" = "(Rekommenderad)";
+
+/* No comment provided by engineer. */
+"*Will also hide carrier name\n**Will also hide cellular data indicator" = "*Döljer även operatörens namn\n**Kommer också att dölja mobildataindikator";
+
+/* No comment provided by engineer. */
+"%lld" = "%lld";
+
+/* No comment provided by engineer. */
+"%lld bytes" = "%lld bytes";
+
+/* No comment provided by engineer. */
+"%lld%%" = "%lld% %";
+
+/* No comment provided by engineer. */
+"⚠️ Warning ⚠️\nSome users have experienced bootloops using this feature. If you are on a beta version of iOS, preceed with caution. If you are on an iOS 16.0 beta, do not use this feature." = "⚠️ Varning ⚠️\nVissa användare har upplevt bootloops när de använt denna funktion. Om du använder en betaversion av iOS bör du vara försiktig. Om du har en betaversion av iOS 16.0 kan du inte använda den här funktionen.";
+
+/* IMPORTANT alert when icons finish applying */
+"⚠️⬇ PLEASE READ ⬇⚠️\n\n After the phone resprings, please *reopen Picasso* to fix apps not functioning properly\n\nVERY IMPORTANT: If you see the apple logo and progress bar, do not worry, your device is fine. PLEASE DO NOT ATTEMPT TO FORCE REBOOT IT.\n\nElapsed time: (Double(Int(-timeStart.timeIntervalSinceNow * 100.0)) / 100.0)s" = "⚠️⬇ OBS! LÄS NOGA! ⬇⚠️\n\n Vänligen *öppna Picasso igen* efter enheten har respringat för att fixa appar som inte fungerar korrekt\n\nMYCKET VIKTIGT: Om du ser Apple-logotypen och förloppsindikatorn, oroa dig inte, din enhet är okej. FÖRSÖK INTE ATT TVINGA EN OMSTART.\n\nTidsförlopp: (Double(Int(-timeStart.timeIntervalSinceNow * 100.0)) / 100.0)s";
+
+/* Notification Badge Bubble text. (1 notification) */
+"1" = "1";
+
+/* No comment provided by engineer. */
+"Action" = "Handling";
+
+/* No comment provided by engineer. */
+"Active" = "Aktiv";
+
+/* No comment provided by engineer. */
+"Add Value" = "Lägg Till Värde";
+
+/* No comment provided by engineer. */
+"Advanced" = "Avancerat";
+
+/* resetting all icons */
+"All app icons will be reverted to their original appearance. Are you sure you want to continue? (Reboot may be required)" = "Alla appikoner kommer att återställas till sitt ursprungliga utseende. Är du säker på att du vill fortsätta? (Omstart kan krävas)";
+
+/* No comment provided by engineer. */
+"Alternatives" = "Alternativ";
+
+/* No comment provided by engineer. */
+"Always has been" = "Har alltid varit";
+
+/* No comment provided by engineer. */
+"An error occured when applying face sizes." = "Ett fel uppstod när ansiktsstorlekar användes.";
+
+/* No comment provided by engineer. */
+"An error occured while changing key face." = "Ett fel uppstod när nyckelytan ändrades.";
+
+/* Passcode export error */
+"An error occured while exporting key face." = "Ett fel uppstod vid export av nyckelansikte.";
+
+/* No comment provided by engineer. */
+"An error occured." = "Ett fel inträffade.";
+
+/* No comment provided by engineer. */
+"An error occurred" = "Ett fel uppstod";
+
+/* when an operation fails to apply */
+"An error occurred while applying the operation" = "Ett fel uppstod när åtgärden skulle tillämpas";
+
+/* when an operation fails to delete */
+"An error occurred while deleting the operation" = "Ett fel uppstod när åtgärden skulle tas bort";
+
+/* when an operation fails to restore */
+"An error occurred while restoring the files" = "Ett fel uppstod när filerna skulle återställas";
+
+/* when an operation fails to save */
+"An error occurred while saving the operation" = "Ett fel uppstod när åtgärden skulle sparas";
+
+/* Unable to enable app clips (NOT WEBCLIPS, if your language does not have a word for this then ignore) */
+"An error occurred while trying to disable appclip icons." = "Ett fel uppstod vid försök att inaktivera appclip-ikoner.";
+
+/* Unable to enable app clips (NOT WEBCLIPS, if your language does not have a word for this then ignore) */
+"An error occurred while trying to enable appclip icons." = "Ett fel uppstod vid försök att aktivera appclip-ikoner.";
+
+/* No comment provided by engineer. */
+"An error occurred while trying to enable extra settings." = "Ett fel uppstod när du försökte aktivera extra inställningar.";
+
+/* No comment provided by engineer. */
+"App Stopped Running" = "Appen Slutade Köras";
+
+/* No comment provided by engineer. */
+"App Switcher" = "App Switcher";
+
+/* No comment provided by engineer. */
+"App theme was successfully saved!" = "Temat har sparats!";
+
+/* No comment provided by engineer. */
+"Apple ID, iCloud, Media & Purchases" = "Apple-ID, iCloud, Medier Och Köp";
+
+/* fix tweaks info */
+"Applies all tweaks which were applied before." = "Tillämpar alla ändringar som tillämpades tidigare.";
+
+/* No comment provided by engineer. */
+"Apply" = "Tillämpa";
+
+/* Header for apply passcode key size for all */
+"Apply for all?" = "Tillämpa för alla?";
+
+/* No comment provided by engineer. */
+"Apply in Background" = "Tillämpa i bakgrunden";
+
+/* No comment provided by engineer. */
+"Apply Once" = "Tillämpa En Gång";
+
+/* No comment provided by engineer. */
+"Apply themes" = "Tillämpa teman";
+
+/* No comment provided by engineer. */
+"Apply Without Saving" = "Tillämpa utan att spara";
+
+/* apply button on custom operations */
+"Applying operation..." = "Tillämpar åtgärd...";
+
+/* No comment provided by engineer. */
+"Are you sure you want to reset the Default SubType?" = "Är du säker på att du vill återställa Default SubType?";
+
+/* No comment provided by engineer. */
+"Asset Catalog" = "Tillgångskatalog";
+
+/* Title of tool */
+"Audio" = "Ljud";
+
+/* No comment provided by engineer. */
+"Audio Changer" = "Ljudändrare";
+
+/* No comment provided by engineer. */
+"Auto respring after apply" = "Auto respring efter tillämpning";
+
+/* No comment provided by engineer. */
+"Auto Update Included Audio" = "Automatiskt Uppdatera Ingående Ljud";
+
+/* No comment provided by engineer. */
+"Background" = "Bakgrund";
+
+/* No comment provided by engineer. */
+"Background Applying" = "Bakgrund Tillämpning";
+
+/* No comment provided by engineer. */
+"Background Services" = "Bakgrundstjänster";
+
+/* No comment provided by engineer. */
+"Background Update Frequency" = "Uppdateringsfrekvens i bakgrunden";
+
+/* No comment provided by engineer. */
+"Banned Apps" = "Förbjudna Appar";
+
+/* No comment provided by engineer. */
+"Basic Configuration" = "Grundläggande Konfiguration";
+
+/* No comment provided by engineer. */
+"Battery Detail Text" = "Batteridetalj Text";
+
+/* Audio name */
+"Begin Recording" = "Börja Spela In";
+
+/* Big passcode keys */
+"Big" = "Stor";
+
+/* No comment provided by engineer. */
+"binary" = "binär";
+
+/* No comment provided by engineer. */
+"Blacklist" = "Svartlista";
+
+/* No comment provided by engineer. */
+"Blacklist File Contents" = "Svartlistans innehåll";
+
+/* No comment provided by engineer. */
+"Blur Enabled" = "Oskärpa Aktiverad";
+
+/* No comment provided by engineer. */
+"Blur:   %lld" = "Oskärpa: %lld";
+
+/* No comment provided by engineer. */
+"Breadcrumb Text" = "Brödsmuletext";
+
+/* No comment provided by engineer. */
+"Bugs may arise. It's also not meant to be redistributed, because... blah blah blah, you know what happens if you do 🧌" = "Fel kan uppstå. Den är inte heller tänkt att distribueras vidare, eftersom... bla bla bla, du vet vad som händer om du gör det 🧌.";
+
+/* No comment provided by engineer. */
+"Calculate Size" = "Beräkna Storlek";
+
+/* Cancel */
+"Cancel" = "Avbryt";
+
+/* No comment provided by engineer. */
+"Cannot write to file path!" = "Kan inte skriva till filsökvägen!";
+
+/* Title of tool */
+"Card Changer" = "Kortväxlare";
+
+/* No comment provided by engineer. */
+"Carrier Text" = "Operatörstext";
+
+/* No comment provided by engineer. */
+"catalogIconTheming" = "catalogIconTheming";
+
+/* No comment provided by engineer. */
+"CC Modules" = "CC Moduler";
+
+/* No comment provided by engineer. */
+"CD Hashes" = "CD Hashar";
+
+/* No comment provided by engineer. */
+"Change" = "Verkställ";
+
+/* No comment provided by engineer. */
+"Change Battery Detail Text" = "Ändra Batteridetalj Text";
+
+/* No comment provided by engineer. */
+"Change Battery Icon Capacity" = "Ändra batteriikonens kapacitet";
+
+/* No comment provided by engineer. */
+"Change Breadcrumb Text" = "Ändra Brödsmuletext";
+
+/* No comment provided by engineer. */
+"Change Carrier Text" = "Ändra Operatörstext";
+
+/* No comment provided by engineer. */
+"Change Cellular Signal Strength Bars" = "Ändra staplar för signalstyrka för mobiltelefoni";
+
+/* No comment provided by engineer. */
+"Change Status Bar Time Text" = "Ändra Tid I Statusfältet";
+
+/* No comment provided by engineer. */
+"Change WiFi Signal Strength Bars" = "Ändra staplar för WiFi-signalstyrka";
+
+/* Audio name */
+"Charging" = "Laddar";
+
+/* No comment provided by engineer. */
+"Choose a device subtype" = "Välj enhetstyp";
+
+/* Title for lock preference */
+"Choose a lock preference" = "Välj en låsinställning";
+
+/* No comment provided by engineer. */
+"Choose a name for the category" = "Välj ett namn för kategorin";
+
+/* No comment provided by engineer. */
+"Choose a name for the lock" = "Välj ett namn för låset";
+
+/* Entering name for audio */
+"Choose a name for the sound" = "Välj ett namn för ljudet";
+
+/* No comment provided by engineer. */
+"Choose a plist type" = "Välj en plist typ";
+
+/* Choose a size for passcode keys */
+"Choose a size" = "Välj en storlek";
+
+/* No comment provided by engineer. */
+"Choose a value type" = "Välj en värdetyp";
+
+/* No comment provided by engineer. */
+"Choose an operation type" = "Välj en operationstyp";
+
+/* Title for choosing background update interval */
+"Choose an update option" = "Välj ett uppdateringsalternativ";
+
+/* No comment provided by engineer. */
+"Choose app Icon" = "Välj app-ikon";
+
+/* No comment provided by engineer. */
+"Choose Image" = "Välj Bild";
+
+/* No comment provided by engineer. */
+"Choose size" = "Välj storlek";
+
+/* No comment provided by engineer. */
+"Clear image" = "Rensa bild";
+
+/* No comment provided by engineer. */
+"Close" = "Stäng";
+
+/* No comment provided by engineer. */
+"Color" = "Färg";
+
+/* No comment provided by engineer. */
+"Color Data" = "Färgdata";
+
+/* No comment provided by engineer. */
+"Color:" = "Färg:";
+
+/* No comment provided by engineer. */
+"Configuration" = "Konfiguration";
+
+/* No comment provided by engineer. */
+"Confirm" = "Bekräfta";
+
+/* No comment provided by engineer. */
+"Continue" = "Fortsätt";
+
+/* Category of tool */
+"Control Center" = "Kontrollcenter";
+
+/* operation type that corrupts/disables the file */
+"Corrupting" = "Korrumperar";
+
+/* No comment provided by engineer. */
+"Could not calculate plist size!" = "Kunde inte beräkna pliststorlek!";
+
+/* No comment provided by engineer. */
+"Could not download theme!" = "Det gick inte att ladda ner temat!";
+
+/* No comment provided by engineer. */
+"Couldn't get url of file. Did you select it?" = "Det gick inte att hämta urlen till filen. Har du valt rätt?";
+
+/* No comment provided by engineer. */
+"Couldn't get url of folder. Did you select it?" = "Det gick inte att hämta urlen till mappen. Har du valt rätt?";
+
+/* No comment provided by engineer. */
+"Picasso" = "Picasso";
+
+/* No comment provided by engineer. */
+"Picasso %@" = "Picasso %@";
+
+/* No comment provided by engineer. */
+"Picasso App Icon" = "Picasso App Icon";
+
+/* No comment provided by engineer. */
+"Picasso requires “Always” location permission." = "Picasso kräver platstillståndet \"Alltid\".";
+
+/* App icon name */
+"CowTools" = "CowTools";
+
+/* No comment provided by engineer. */
+"Create" = "Skapa";
+
+/* No comment provided by engineer. */
+"Create Operation" = "Skapa Operation";
+
+/* No comment provided by engineer. */
+"Creating" = "Skapande";
+
+/* No comment provided by engineer. */
+"Creating Data" = "Skapar data";
+
+/* No comment provided by engineer. */
+"Credits" = "Medverkande";
+
+/* No comment provided by engineer. */
+"Currently to submit themes for other people to see and use, we have to review them on our Discord in #showcase channel." = "För närvarande måste vi granska teman i #showcase-kanalen på vår Discordserver för att andra människor ska kunna hitta och använde dem.";
+
+/* Custom size for passcode keys */
+"Custom" = "Anpassa";
+
+/* No comment provided by engineer. */
+"Custom image" = "Anpassad Bild";
+
+/* Title of tool */
+"Custom Operations" = "Anpassade Operationer";
+
+/* No comment provided by engineer. */
+"Custom Operations Author Name" = "Namn på författare för anpassade åtgärder";
+
+/* App icon name
+   default device subtype
+   Default passcode size */
+"Default" = "Standard";
+
+/* Audio name */
+"Default Notifications" = "Standardnotiser";
+
+/* No comment provided by engineer. */
+"Delete" = "Radera";
+
+/* No comment provided by engineer. */
+"Delete Shortcut Banners" = "Radera Shortcuts-notiser";
+
+/* No comment provided by engineer. */
+"Deleting" = "Tar bort";
+
+/* delete button on custom operations */
+"Deleting operation..." = "Raderar operation...";
+
+/* No comment provided by engineer. */
+"Dialer Face Editor" = "Knappsatsändrare (telefon-app)";
+
+/* No comment provided by engineer. */
+"Dialer keys successfully cleared!" = "Knappsatsen har rensats!";
+
+/* No comment provided by engineer. */
+"Disable" = "Inaktivera";
+
+/* Springboard tool */
+"Disable App Switcher Blur" = "Inaktivera Suddighet I App Switcher";
+
+/* Springboard tool */
+"Disable CC Module Background" = "Inaktivera CC-Modulsbakgrund";
+
+/* Springboard tool */
+"Disable Folder Background" = "Inaktivera Mappbakgrund";
+
+/* Springboard tool */
+"Disable Folder Blur" = "Inaktivera Suddighet I Mappar";
+
+/* Springboard tool */
+"Disable Library Pods Background" = "Inaktivera Bakgrund för Library Pods";
+
+/* No comment provided by engineer. */
+"Disable Screen Time" = "Inaktivera skärmtid";
+
+/* No comment provided by engineer. */
+"Disable Shortcut Apps as Appclips" = "Inaktivera Genvägsappar som App-Klipp";
+
+/* No comment provided by engineer. */
+"Dock" = "Docka";
+
+/* No comment provided by engineer. */
+"Download themes in Themes tab." = "Ladda ner teman i Temafliken.";
+
+/* No comment provided by engineer. */
+"Downloading" = "Laddar ner";
+
+/* iPhone 14 Pro SubType */
+"Dynamic Island" = "Dynamic Island";
+
+/* iPhone 14 Pro Max SubType */
+"Dynamic Island Pro Max" = "Dynamic Island Pro Max";
+
+/* matteozappia's contribution */
+"Dynamic Island SubTypes" = "Dynamic Island enhetstyper";
+
+/* No comment provided by engineer. */
+"Edit Operation" = "Redigera Operation";
+
+/* No comment provided by engineer. */
+"Editing %@" = "Redigerar %@";
+
+/* No comment provided by engineer. */
+"Email" = "Email";
+
+/* No comment provided by engineer. */
+"Enable" = "Aktivera";
+
+/* No comment provided by engineer. */
+"Enable Shortcut Apps as Appclips" = "Aktivera Genvägsappar som Appklipp";
+
+/* No comment provided by engineer. */
+"Enabled" = "Aktiverad";
+
+/* Audio name */
+"End Recording" = "Avsluta inspelning";
+
+/* Entering custom resolution */
+"Enter Dimensions" = "Ange dimensioner";
+
+/* dimensions for passcode keys */
+"Enter Key Dimensions" = "Ange nyckeldimensioner";
+
+/* No comment provided by engineer. */
+"Enter Name" = "Skriv Namn";
+
+/* No comment provided by engineer. */
+"Error" = "Fel";
+
+/* Error occured while fetching themes */
+"Error occured while fetching themes" = "Ett fel uppstod när teman skulle hämtas";
+
+/* No comment provided by engineer. */
+"Errors occurred while setting some icons" = "Fel uppstod när vissa ikoner ställdes in";
+
+/* No comment provided by engineer. */
+"Exaple" = "Exempel";
+
+/* ginsudev's contribution */
+"Exploit Code" = "Exploateringskod";
+
+/* No comment provided by engineer. */
+"Explore" = "Utforska";
+
+/* No comment provided by engineer. */
+"Extra Preferences" = "Extra Preferenser";
+
+/* Failed to apply audio */
+"Failed to apply audio for:" = "Det gick inte att använda ljud på grund av:";
+
+/* failed to apply subtype */
+"Failed to apply Device SubType!" = "Det gick inte att tillämpa Enhetstyp!";
+
+/* Failing to apply custom resolution */
+"Failed to apply resolution:" = "Det gick inte att tillämpa upplösningen:";
+
+/* No comment provided by engineer. */
+"Failed to apply system version change! The version must be shorter than your current device version.\n\n(error.localizedDescription)" = "Det gick inte att tillämpa systemversionsändring! Versionen måste vara lägre än din nuvarande enhetsversion.\n\n(error.localizedDescription)";
+
+/* when the category cannot be created */
+"Failed to create category" = "Det gick inte att skapa kategori";
+
+/* No comment provided by engineer. */
+"Failed to load operations." = "Det gick inte att läsa in operationer.";
+
+/* No comment provided by engineer. */
+"Failed to save theme!" = "Det gick inte att spara temat!";
+
+/* No comment provided by engineer. */
+"File not found!" = "Filen hittades inte!";
+
+/* No comment provided by engineer. */
+"File:" = "Fil:";
+
+/* Import passcode theme from files */
+"Files" = "Filer";
+
+/* No comment provided by engineer. */
+"Filter" = "Filter";
+
+/* No comment provided by engineer. */
+"Fix tweaks" = "Fixa tweaks";
+
+/* No comment provided by engineer. */
+"Fixing apps..." = "Fixar appar...";
+
+/* No comment provided by engineer. */
+"Focus" = "Fokus";
+
+/* No comment provided by engineer. */
+"Folder" = "Mapp";
+
+/* No comment provided by engineer. */
+"Font Files" = "Typsnitts Filer";
+
+/* No comment provided by engineer. */
+"Font Pack Name" = "Typsnitts Paket Namn";
+
+/* No comment provided by engineer. */
+"Fonts" = "Typsnitt";
+
+/* No comment provided by engineer. */
+"Footnote" = "Fotnot";
+
+/* No comment provided by engineer. */
+"Footnote:" = "Fotnot:";
+
+/* No comment provided by engineer. */
+"Force MacDirtyCOW" = "Tvinga MacDirtyCOW";
+
+/* No comment provided by engineer. */
+"Forgot password?" = "Glömt lösenord?";
+
+/* Frequent */
+"Frequent" = "Frekvent";
+
+/* Where to import passcode theme from */
+"From where do you want to import from?" = "Varifrån vill du importera?";
+
+/* header for resetting all icons */
+"Full reset" = "Fullständig återställning";
+
+/* No comment provided by engineer. */
+"Generate Padding" = "Generera utfyllnad";
+
+/* No comment provided by engineer. */
+"Gestures / Dynamic Island" = "Gester / Dynamic Island";
+
+/* App icon name */
+"Glitch" = "Tekniskt fel";
+
+/* No comment provided by engineer. */
+"Go here if something isn't working correctly." = "Gå hit om något inte fungerar som det ska.";
+
+/* Height of custom resolution
+   Height of passcode keys */
+"Height" = "Höjd";
+
+/* No comment provided by engineer. */
+"Hide Airplane Mode" = "Dölj Flygplansläge";
+
+/* No comment provided by engineer. */
+"Hide AirPlay" = "Dölj AirPlay";
+
+/* No comment provided by engineer. */
+"Hide Alarm" = "Dölj Alarm";
+
+/* No comment provided by engineer. */
+"Hide Battery" = "Dölj Batteri";
+
+/* No comment provided by engineer. */
+"Hide Bluetooth" = "Dölj Bluetooth";
+
+/* No comment provided by engineer. */
+"Hide CarPlay" = "Dölj CarPlay";
+
+/* No comment provided by engineer. */
+"Hide Cellular*" = "Dölj Mobilnätverk*";
+
+/* No comment provided by engineer. */
+"Hide Do Not Disturb" = "Dölj Stör Ej";
+
+/* Springboard tool */
+"Hide Dock" = "Dölj Dockan";
+
+/* Springboard tool */
+"Hide Home Bar" = "Dölj Hembaren";
+
+/* No comment provided by engineer. */
+"Hide Location" = "Dölj Plats";
+
+/* Springboard tool */
+"Hide Notification Banner Background" = "Dölj Notisbakgrund";
+
+/* No comment provided by engineer. */
+"Hide Rotation Lock" = "Dölj Rotationslås";
+
+/* No comment provided by engineer. */
+"Hide Status Bar Time" = "Dölj Statusfältets Tid";
+
+/* No comment provided by engineer. */
+"Hide VPN" = "Dölj VPN";
+
+/* No comment provided by engineer. */
+"Hide Wi-Fi**" = "Dölj Wi-Fi**";
+
+/* No comment provided by engineer. */
+"Home" = "Hem";
+
+/* Category of tool */
+"Home Screen" = "Hemskärm";
+
+/* No comment provided by engineer. */
+"I'm not a robot (no cap)" = "Jag är ingen robot (no cap)";
+
+/* No comment provided by engineer. */
+"Icons" = "Ikoner";
+
+/* No comment provided by engineer. */
+"Icons override" = "Överskridningar för ikoner";
+
+/* No comment provided by engineer. */
+"If a file of the same name already exists in the pack, it will be overwritten." = "Om en fil med samma namn redan finns i paketet kommer den att skrivas över.";
+
+/* Description for lock preference */
+"If the custom lock does not apply for you, try another option." = "Om det anpassade låset inte tillämpades för dig, prova ett annat alternativ.";
+
+/* No comment provided by engineer. */
+"Image:" = "Bild:";
+
+/* Header for importing passcode theme */
+"Import Passcode Theme" = "Importera Låsskärmstema";
+
+/* No comment provided by engineer. */
+"In progress..." = "Pågående...";
+
+/* A joke about users being able to join Discord while they wait for Picasso to finish theming. "In the meantime you can Join Discord" is the text for button */
+"In the meantime you can ..." = "Under tiden kan du...";
+
+/* No comment provided by engineer. */
+"Included" = "Ingår";
+
+/* fix tweaks info header
+   respring info header */
+"Info" = "Info";
+
+/* Header for inputting custom iOS version */
+"Input Software Version" = "Skriv in mjukvaruversion";
+
+/* App icon name */
+"iOS 6" = "iOS 6";
+
+/* x gestures */
+"iPhone X Gestures" = "iPhone X Gester";
+
+/* No comment provided by engineer. */
+"Join Discord" = "Gå med i Discord";
+
+/* key for plist operation */
+"Key" = "Nyckel";
+
+/* Audio name */
+"Keyboard Press Clear" = "Tangentbord Rensa";
+
+/* Audio name */
+"Keyboard Press Delete" = "Tangentbord Backslag";
+
+/* Audio name */
+"Keyboard Press Normal" = "Tangentbord Skriv";
+
+/* Audio name */
+"Lock" = "Lås";
+
+/* Category of tool */
+"Lock Screen" = "Låsskärm";
+
+/* Title of tool */
+"Lock Screen Footnote" = "Fotnot För Låsskärm";
+
+/* No comment provided by engineer. */
+"Lock Screen Footnote Changer" = "Fotnotsväxlare";
+
+/* No comment provided by engineer. */
+"Lock Type" = "Låstyp";
+
+/* Title of tool */
+"Locks" = "Lås";
+
+/* No comment provided by engineer. */
+"Log in" = "Logga in";
+
+/* No comment provided by engineer. */
+"Log in Sourced" = "Logga in Sourced";
+
+/* Audio name */
+"Low Power" = "Låg Effekt";
+
+/* leminlimez's contribution
+   sourcelocation's contribution */
+"Main Developer" = "Huvudutvecklare";
+
+/* No comment provided by engineer. */
+"Make It So, Number One" = "Gör Det Så, Nummer Ett";
+
+/* No comment provided by engineer. */
+"Manage Background Tasks" = "Hantera bakgrundsuppgifter";
+
+/* Maximum passcode key size */
+"Max:" = "Max:";
+
+/* Minimum passcode key size */
+"Min:" = "Min:";
+
+/* App icon name */
+"Minecraft" = "Minecraft";
+
+/* Title of tool */
+"Miscellaneous" = "Diverse";
+
+/* No comment provided by engineer. */
+"More Settings" = "Fler inställningar";
+
+/* No comment provided by engineer. */
+"Name" = "Namn";
+
+/* No comment provided by engineer. */
+"Name:" = "Namn:";
+
+/* No comment provided by engineer. */
+"New" = "Ny";
+
+/* No comment provided by engineer. */
+"New Category" = "Ny Kategori";
+
+/* Audio name */
+"New Mail" = "Nytt Mail";
+
+/* No comment provided by engineer. */
+"New Operation" = "Ny Operation";
+
+/* No comment provided by engineer. */
+"New theme name" = "Nytt Temanamn";
+
+/* Decline apply for all (passcode keys) */
+"No" = "Nej";
+
+/* No comment provided by engineer. */
+"No Cards Found" = "Inga Kort Hittades";
+
+/* No comment provided by engineer. */
+"No images found!" = "Inga bilder hittades!";
+
+/* No comment provided by engineer. */
+"No respring required to apply." = "Ingen respring krävs för att tillämpa.";
+
+/* No comment provided by engineer. */
+"No themes containing icons for %@ (%@) have been found." = "Inga teman som innehåller ikoner för %@ (%@) har hittats.";
+
+/* No comment provided by engineer. */
+"No themes found. Download themes in the Explore tab,\nor import them using the button in the top right corner (Themes have to contain icons in the format of <id>.png)." = "Inga teman hittades. Ladda ner teman på fliken Utforska,\neller importera dem med knappen i det övre högra hörnet (teman måste innehålla ikoner i formatet <id>.png).";
+
+/* No comment provided by engineer. */
+"noPNGThemingFixup" = "noPNGThemingFixup";
+
+/* Not a valid size input for passcode keys */
+"Not a valid size!" = "Inte en giltig storlek!";
+
+/* No comment provided by engineer. */
+"Not enough icons to show a preview. \nInvalid theme?" = "Inte tillräckligt med ikoner för att visa en förhandsvisning.\n Ogiltigt tema?";
+
+/* No comment provided by engineer. */
+"Not Playing" = "Spelar inte";
+
+/* No comment provided by engineer. */
+"noThemingFixup" = "noThemingFixup";
+
+/* No comment provided by engineer. */
+"Notification Banner" = "Notis-banner";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open Settings" = "Öppna Inställningar";
+
+/* No comment provided by engineer. */
+"Operation Name" = "Operations Namn";
+
+/* No comment provided by engineer. */
+"Options" = "Alternativ";
+
+/* No comment provided by engineer. */
+"Original" = "Original";
+
+/* Category of tool */
+"Other" = "Övrigt";
+
+/* No comment provided by engineer. */
+"Overwrite Banned Apps" = "Skriv över förbjudna appar";
+
+/* No comment provided by engineer. */
+"Overwrite Blacklist" = "Skriv Över Svartlista";
+
+/* No comment provided by engineer. */
+"Overwrite CDHashes" = "Skriv Över CDHashes";
+
+/* No comment provided by engineer. */
+"Passcode Face Editor" = "Redigera pin-knappar";
+
+/* Title of tool */
+"Passcode Faces" = "Lösenknappar";
+
+/* No comment provided by engineer. */
+"Passcodes" = "Lösenkoder";
+
+/* No comment provided by engineer. */
+"Password" = "Lösenord";
+
+/* No comment provided by engineer. */
+"Path" = "Väg";
+
+/* No comment provided by engineer. */
+"Path:" = "Väg:";
+
+/* No comment provided by engineer. */
+"Patreon Supporters" = "Patreon Supportrar";
+
+/* Audio name */
+"Payment Failed" = "Betalning Misslyckades";
+
+/* Audio name */
+"Payment Received" = "Betalning Mottagen";
+
+/* Audio name */
+"Payment Success" = "Betalning Lyckades";
+
+/* App icon name */
+"Pixel Art" = "Pixel Art";
+
+/* No comment provided by engineer. */
+"Please close and reopen the Phone app." = "Stäng och öppna telefonappen igen.";
+
+/* when user enters a category name that cannot be used */
+"Please enter a valid category name!" = "Vänligen ange ett giltigt kategorinamn!";
+
+/* No comment provided by engineer. */
+"Please grant Picasso “Always” location permission in Settings so it can run in the background indefinitely." = "Vänligen ge Picasso platstillståndet \"Alltid\" i Inställningar så att den kan köras i bakgrunden.";
+
+/* No comment provided by engineer. */
+"Please log into your Sourced Repo account to continue" = "Logga in på ditt Sourced Repo-konto för att fortsätta";
+
+/* No comment provided by engineer. */
+"Please respring to finish applying changes." = "Respringa för att slutföra tillämpningen av ändringar.";
+
+/* respring to hear audio changes */
+"Please respring to hear changes." = "Vänligen respringa för att höra ändringar.";
+
+/* No comment provided by engineer. */
+"Please respring to see changes." = "Vänligen respring för att se ändringar.";
+
+/* No comment provided by engineer. */
+"Please select a file to import!" = "Välj en fil att importera!";
+
+/* No comment provided by engineer. */
+"Please wait" = "Vänta";
+
+/* No comment provided by engineer. */
+"Please wait for Picasso to finish theming..." = "Vänta tills Picasso har avslutat verkställning av temat...";
+
+/* operation type that changes plist keys */
+"Plist" = "Plist";
+
+/* No comment provided by engineer. */
+"Plist Data" = "Plist Data";
+
+/* No comment provided by engineer. */
+"Plist Properties" = "Plistegenskaper";
+
+/* No comment provided by engineer. */
+"Plist Type:" = "Typ av Plist:";
+
+/* No comment provided by engineer. */
+"pngIconTheming" = "pngIconTheming";
+
+/* Power Saving */
+"Power Saving" = "Energibesparing";
+
+/* No comment provided by engineer. */
+"Preferences" = "Inställningar";
+
+/* No comment provided by engineer. */
+"Preview" = "Förhandsvisning";
+
+/* No comment provided by engineer. */
+"Private build" = "Privat byggnad";
+
+/* Successfully applying custom resolution */
+"Reboot to revert resolution changes. It will auto respring when done" = "Starta om för att återställa upplösningsändringar. Det kommer automatiskt att respring när det är klart";
+
+/* No comment provided by engineer. */
+"Rebuild Icon Cache" = "Bygg om Icon Cache";
+
+/* Audio name */
+"Received Message" = "Mottaget Meddelande";
+
+/* No comment provided by engineer. */
+"Remove all" = "Ta bort alla";
+
+/* No comment provided by engineer. */
+"Remove Icons" = "Ta bort ikoner";
+
+/* No comment provided by engineer. */
+"Remove Image" = "Ta bort bild";
+
+/* No comment provided by engineer. */
+"Remove Labels" = "Ta bort etiketter";
+
+/* No comment provided by engineer. */
+"Remove Previews" = "Ta bort förhandsvisningar";
+
+/* No comment provided by engineer. */
+"Remove theme" = "Ta bort tema";
+
+/* No comment provided by engineer. */
+"Rename" = "Döp Om";
+
+/* Entering new theme name */
+"Rename theme" = "Byt namn på tema";
+
+/* No comment provided by engineer. */
+"Replace With:" = "Ersätt Med:";
+
+/* No comment provided by engineer. */
+"Replacement Data" = "Ersättningsdata";
+
+/* operation type that replaces a file */
+"Replacing" = "Byter Ut";
+
+/* No comment provided by engineer. */
+"Reset All" = "Återställ Allt";
+
+/* No comment provided by engineer. */
+"Reset Default SubType" = "Återställ Standard SubType";
+
+/* No comment provided by engineer. */
+"Reset faces" = "Återställ ansikten";
+
+/* No comment provided by engineer. */
+"Resolution will now apply" = "Upplösningen kommer nu att tillämpas";
+
+/* No comment provided by engineer. */
+"Respring" = "Respring";
+
+/* respring info */
+"Respring is an action that allows restarting your Home Screen without rebooting your device." = "Respring är en åtgärd som gör det möjligt att starta om din hemskärm utan att starta om enheten.";
+
+/* Respring to see changes */
+"Respring to see changes" = "Respring för att se förändringar";
+
+/* No comment provided by engineer. */
+"Restore" = "Återställ";
+
+/* restore button on custom operations */
+"Restoring original file..." = "Återställer originalfilen...";
+
+/* No comment provided by engineer. */
+"Run in background" = "Kör i bakgrunden";
+
+/* No comment provided by engineer. */
+"Save" = "Spara";
+
+/* No comment provided by engineer. */
+"Save Settings" = "Spara Inställningar";
+
+/* Import passcode theme from saved */
+"Saved" = "Sparad";
+
+/* apply button on custom operations */
+"Saving operation..." = "Sparar operation...";
+
+/* No comment provided by engineer. */
+"Scale:   %lld%%" = "Skala: %lld%%";
+
+/* rebuilding icon cache */
+"Scheduling a rebuild" = "Schemalägger en ombyggnad";
+
+/* No comment provided by engineer. */
+"Scheduling icon cache reset..." = "Schemalägger återställning av ikoncache...";
+
+/* No comment provided by engineer. */
+"Screen Time Enabled" = "Skärmtid aktiverad";
+
+/* No comment provided by engineer. */
+"Screen time was successfully disabled, please reboot to finish application. You will be able to enable connection after restart." = "Skärmtid har inaktiverats, starta om för att avsluta applikationen. Du kommer att kunna aktivera anslutningen efter omstart.";
+
+/* Audio name */
+"Screenshot" = "Skärmdump";
+
+/* c22dev's contribution */
+"ScreenTime Remover, Included Audio, Credits, and Card Changer" = "Skärmtidsraderare, inkluderat ljud, medverkarlista och kortväxlare";
+
+/* No comment provided by engineer. */
+"Select" = "Välj";
+
+/* No comment provided by engineer. */
+"Select Font Pack" = "Välj Font Pack";
+
+/* No comment provided by engineer. */
+"Select Image" = "Välj Bild";
+
+/* No comment provided by engineer. */
+"Selected" = "Vald";
+
+/* No comment provided by engineer. */
+"Selected: %lld" = "Valt: %lld";
+
+/* Audio name */
+"Sent Mail" = "Skickade Mail";
+
+/* Audio name */
+"Sent Message" = "Skickat Meddelande";
+
+/* No comment provided by engineer. */
+"Set app switcher color" = "Ställ in app switcherns färg";
+
+/* No comment provided by engineer. */
+"Set as Active" = "Ställ in som aktiv";
+
+/* No comment provided by engineer. */
+"Set badge color" = "Ställ in märkesfärg";
+
+/* No comment provided by engineer. */
+"Set cc module color" = "Ställ in färg på CC-moduler";
+
+/* No comment provided by engineer. */
+"Set color" = "Ställ in färg";
+
+/* No comment provided by engineer. */
+"Set dock color" = "Ställ in dockans färg";
+
+/* No comment provided by engineer. */
+"Set expanded folder background color" = "Ställ in bakgrundsfärg för expanderad mapp";
+
+/* No comment provided by engineer. */
+"Set folder color" = "Ställ in färg på mappar";
+
+/* No comment provided by engineer. */
+"Set notification banner color" = "Ställ in färg för notisbanner";
+
+/* No comment provided by engineer. */
+"Settings" = "Inställningar";
+
+/* No comment provided by engineer. */
+"Shortcut Apps" = "Shortcut-Appar";
+
+/* No comment provided by engineer. */
+"Show Numeric Cellular Strength" = "Visa numerisk cellulär styrka";
+
+/* No comment provided by engineer. */
+"Show Numeric WiFi Strength" = "Visa numerisk WiFi-styrka";
+
+/* No comment provided by engineer. */
+"showCancelButtonOnThemingEnd" = "showCancelButtonOnThemingEnd";
+
+/* No comment provided by engineer. */
+"Sign up" = "Bli Medlem";
+
+/* No comment provided by engineer. */
+"Size not calculated" = "Storlek ej beräknad";
+
+/* Small passcode keys */
+"Small" = "Små";
+
+/* No comment provided by engineer. */
+"Software Version" = "Mjukvaruversion";
+
+/* Title of tool */
+"Springboard Colors" = "Springboardfärger";
+
+/* Title of tool */
+"Springboard Tools" = "SpringBoardverktyg";
+
+/* No comment provided by engineer. */
+"SpringBoard Tools" = "SpringBoard-verktyg";
+
+/* No comment provided by engineer. */
+"Starting..." = "Startar...";
+
+/* Title of tool */
+"Status Bar" = "Statusfält";
+
+/* No comment provided by engineer. */
+"Status Bar Time Text" = "Tidstext i statusfält";
+
+/* No comment provided by engineer. */
+"Submit themes" = "Skicka in teman";
+
+/* No comment provided by engineer. */
+"Success" = "Succé";
+
+/* No comment provided by engineer. */
+"Success!" = "Succé!";
+
+/* applying audio succeeded */
+"Successfully applied audio!" = "Ljudet har använts!";
+
+/* Successfully applied tweaks */
+"Successfully applied tweaks" = "Tillämpade tweaks";
+
+/* No comment provided by engineer. */
+"Supervised" = "Övervakad";
+
+/* No comment provided by engineer. */
+"Swipe to view different cards" = "Svep för att visa olika kort";
+
+/* No comment provided by engineer. */
+"Tap a card to customize" = "Tryck på ett kort för att anpassa";
+
+/* No comment provided by engineer. */
+"Tap on any key to edit \nits appearance" = "Tryck på valfritt fält för att redigera\ndess utseende";
+
+/* No comment provided by engineer. */
+"Tap on icon you want to set as preferred for %@ (%@)" = "Tryck på ikonen du vill ställa in som önskad för %@ (%@)";
+
+/* No comment provided by engineer. */
+"Tap this notification to resume tweak applications." = "Tryck på detta meddelandet för att återuppta tweak-applikationer.";
+
+/* No comment provided by engineer. */
+"Test: theme all icons using 1 icon" = "Test: tema alla ikoner med 1 ikon";
+
+/* No comment provided by engineer. */
+"The app will quit." = "Appen kommer att avslutas.";
+
+/* when an operation is restored */
+"The file was successfully restored!" = "Filen återställdes framgångsrikt!";
+
+/* Saving imported audio */
+"The imported audio was successfully encoded and saved." = "Det importerade ljudet kodades och sparades.";
+
+/* Saving imported lock */
+"The imported lock was successfully saved." = "Det importerade låset har sparats.";
+
+/* when an operation is applied */
+"The operation was successfully applied! The operation was not saved, only applied." = "Åtgärden genomfördes! Åtgärden sparades inte, endast användes.";
+
+/* when an operation is deleted */
+"The operation was successfully deleted!" = "Åtgärden har raderats!";
+
+/* when an operation is saved */
+"The operation was successfully saved!" = "Åtgärden har sparats!";
+
+/* No comment provided by engineer. */
+"The theme was successfully downloaded and saved!" = "Temat laddades ned och sparades!";
+
+/* failed to select icon */
+"Theme with the name (url.deletingPathExtension().lastPathComponent) already exists. Please rename the folder." = "Tema med namnet (url.deletingPathExtension().lastPathComponent) finns redan. Byt namn på mappen.";
+
+/* No comment provided by engineer. */
+"Themes" = "Teman";
+
+/* screentime process */
+"This could cause issues. Make sure to disable data or Wi-Fi." = "Detta kan orsaka problem. Se till att inaktivera mobildata eller Wi-Fi.";
+
+/* No comment provided by engineer. */
+"Toggle what services will run or apply when the app is in the background." = "Välj vilka tjänster som ska köras eller tillämpas när appen är i bakgrunden.";
+
+/* No comment provided by engineer. */
+"Tools" = "Verktyg";
+
+/* No comment provided by engineer. */
+"Translators" = "Översättare";
+
+/* No comment provided by engineer. */
+"Tweak Options" = "Tweakalternativ";
+
+/* No comment provided by engineer. */
+"Type:" = "Typ:";
+
+/* Cannot delete audio (audio name is after) */
+"Unable to delete audio for audio" = "Det gick inte att radera ljud för ljudet";
+
+/* Failed to import lock */
+"Unable to save imported lock!" = "Det gick inte att spara det importerade låset!";
+
+/* No comment provided by engineer. */
+"Uncategorized" = "Okategoriserad";
+
+/* Shown after successful theme set. */
+"Understood, Respring" = "Förstått, Respring";
+
+/* zhuowei's contribution */
+"Unsandboxing" = "Unsandboxing";
+
+/* No comment provided by engineer. */
+"Update Frequency" = "Uppdatera frekvens";
+
+/* No comment provided by engineer. */
+"Update Included Audio" = "Uppdatera Inkluderat Ljud";
+
+/* No comment provided by engineer. */
+"Upload File" = "Ladda Upp Fil";
+
+/* No comment provided by engineer. */
+"Use Alternative Setter" = "Använd Alternativ Setter";
+
+/* No comment provided by engineer. */
+"Use at your own risk" = "Använd på egen risk";
+
+/* No comment provided by engineer. */
+"Use Settings Footnote" = "Använd Inställningar fotnot";
+
+/* No comment provided by engineer. */
+"Use this if carrier/time text isn't applying. I would recommend you Reset to Defaults after turning on and saving." = "Använd detta om operatörs-/tidstext inte verkställs. Jag skulle rekommendera att du återställer till standardinställningarna efter att du har slagit på och sparat.";
+
+/* No comment provided by engineer. */
+"Use this if your device is erroneously detecting TrollStore installed, and you do not have an Apply button at the top of the Status Bar page." = "Använd detta om din enhet felaktigt upptäcker att TrollStore är installerat och du inte har en Verkställ-knapp högst upp på statusfältssidan.";
+
+/* No comment provided by engineer. */
+"validate" = "bekräfta";
+
+/* value for plist operation */
+"Value" = "Värde";
+
+/* App icon name - vector graphics */
+"Vector" = "Vektor";
+
+/* No comment provided by engineer. */
+"Version %@ (%@)" = "Version %@ (%@)";
+
+/* No comment provided by engineer. */
+"View contents of blacklist files" = "Visa innehållet av svartlistade filer";
+
+/* No comment provided by engineer. */
+"Wait, it's all TrollTools?" = "Vänta, är allt TrollTools?";
+
+/* No comment provided by engineer. */
+"When set to blank on notched devices, this will display the carrier name." = "När den är inställd på tom på enheter med hack (ex. iPhone X) kommer detta att visa operatörens namn.";
+
+/* Title of tool */
+"Whitelist" = "Vitlista";
+
+/* BomberFish's contribution */
+"Whitelist, AirPower Audio, Various fixes" = "Vitlista, AirPower ljudeffekt, olika korrigeringar";
+
+/* Width of custom resolution
+   Width of passcode keys */
+"Width" = "Bredd";
+
+/* Message for apply passcode key size for all */
+"Would you like to apply this size for all currently active keys? Otherwise, it will only apply to new faces." = "Vill du använda denna storlek för alla för närvarande aktiva fält? Annars kommer det bara att gälla nya ansikten.";
+
+/* No comment provided by engineer. */
+"x" = "x";
+
+/* No comment provided by engineer. */
+"X" = "X";
+
+/* No comment provided by engineer. */
+"xml" = "xml";
+
+/* No comment provided by engineer. */
+"Y" = "Y";
+
+/* Confirm apply for all (passcode keys) */
+"Yes" = "Ja";
+
+/* No comment provided by engineer. */
+"YN" = "YN";
+
+/* No comment provided by engineer. */
+"You do not have any saved passcode themes. Check out the explore tab to find some!" = "Du har inga sparade lösenordsteman. Kolla in fliken Utforska för att hitta några!";
+
+/* No comment provided by engineer. */
+"Your apps should now function properly" = "Dina appar bör nu fungera korrekt";
+
+/* No comment provided by engineer. */
+"Your device is connected to internet!" = "Din enhet är ansluten till internet!";
+
+/* No comment provided by engineer. */
+"Your device will respring." = "Din enhet kommer att respringa.";
+
+/* No comment provided by engineer. */
+"Your device will respring.\n\n\nApplying using %@." = "Din enhet kommer att respringa.\n\n\nTillämpar med %@.";
+
+/* No comment provided by engineer. */
+"Your Name" = "Ditt namn";
+

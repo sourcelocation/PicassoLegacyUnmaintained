@@ -1,0 +1,42 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Picasso";
+
+/* Bundle name */
+"CFBundleName" = "Picasso";
+
+/* (No Comment) */
+"Picasso Operation" = "Hoạt động Picasso";
+
+/* (No Comment) */
+"FileSwitcherPro Item" = "Mục FileSwitcherPro";
+
+/* (No Comment) */
+"Icon Theme" = "Giao diện biểu tượng";
+
+/* Privacy - Media Library Usage Description */
+"NSAppleMusicUsageDescription" = "Cấp quyền cho môi trường sandbox (cần thiết nó cho việc chỉnh phím mật khẩu và vài thứ khác)";
+
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Picasso chạy trong nên để bảo đảm cho các tùy chỉnh không biến mất. Thường thì iOS sẽ tắt ứng dụng sau một khoảng thời gian. Nhưng Picasso sẽ lừa iOS bằng cách yêu cầu vị trí để giúp tránh hệ điều hành tắt Picasso. Những dữ liệu này sẽ không được lưu ở bất kì đâu hết, nó chỉ được lấy đi và rồi sẽ biến mất.";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Picasso chạy trong nên để bảo đảm cho các tùy chỉnh không biến mất. Thường thì iOS sẽ tắt ứng dụng sau một khoảng thời gian. Nhưng Picasso sẽ lừa iOS bằng cách yêu cầu vị trí để giúp tránh hệ điều hành tắt Picasso. Những dữ liệu này sẽ không được lưu ở bất kì đâu hết, nó chỉ được lấy đi và rồi sẽ biến mất.";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Ảnh";
+
+/* (No Comment) */
+"OpenType font" = "Phông chữ OpenType";
+
+/* (No Comment) */
+"Passcode Theme File" = "Tệp giao diện màn hình khóa";
+
+/* (No Comment) */
+"Theme Archive File" = "Tệp giao diện nén";
+
+/* (No Comment) */
+"TrueType collection" = "Bộ sưu tập TrueType";
+
+/* (No Comment) */
+"TrueType font" = "Phông chữ TrueType";
+

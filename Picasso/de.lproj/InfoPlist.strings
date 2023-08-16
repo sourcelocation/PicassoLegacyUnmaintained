@@ -1,0 +1,42 @@
+
+/* Bundle display name */
+"CFBundleDisplayName" = "Picasso";
+
+/* Bundle name */
+"CFBundleName" = "Picasso";
+
+/* (No Comment) */
+"Picasso Operation" = "Picasso-Operation";
+
+/* (No Comment) */
+"FileSwitcherPro Item" = "FileSwitcherPro";
+
+/* (No Comment) */
+"Icon Theme" = "Icon-Theme";
+
+/* Privacy - Media Library Usage Description */
+"NSAppleMusicUsageDescription" = "Sandbox-Berechtigung (benötigt für Passcode-Schlüssel + einige andere Optionen)";
+
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Picasso läuft im Hintergrund, um sicherzustellen, dass die Optimierungen angewendet bleiben. Normalerweise beendet iOS solche Apps nach einer gewissen Zeit, aber Picasso trickst iOS aus, indem es Standortdaten anfordert und so viel längere Sitzungen ermöglicht. Daten werden niemals irgendwo gespeichert, sondern nur abgerufen.";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Picasso läuft im Hintergrund, um sicherzustellen, dass die Optimierungen angewendet bleiben. Normalerweise beendet iOS solche Apps nach einer gewissen Zeit, aber Picasso trickst iOS aus, indem es Standortdaten anfordert und so viel längere Sitzungen ermöglicht. Daten werden niemals irgendwo gespeichert, sondern nur abgerufen.";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Fotos";
+
+/* (No Comment) */
+"OpenType font" = "OpenType-Schriftart";
+
+/* (No Comment) */
+"Passcode Theme File" = "Passcode-Themedatei";
+
+/* (No Comment) */
+"Theme Archive File" = "Theme-Archivdatei";
+
+/* (No Comment) */
+"TrueType collection" = "TrueType-Sammlung";
+
+/* (No Comment) */
+"TrueType font" = "TrueType-Schriftart";

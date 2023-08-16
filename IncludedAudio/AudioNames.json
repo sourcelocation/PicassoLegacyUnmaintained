@@ -1,0 +1,69 @@
+{
+	"audio_files": [
+        {
+            "name": "Version",
+            "version": "1.1",
+            "attachments": ["Oopsie"]
+        },
+        {
+            "name": "Old_Charging",
+            "attachments": ["Charging"]
+        },
+        {
+            "name": "Engage",
+            "attachments": ["Charging"]
+        },
+        {
+            "name": "MagSafe",
+            "attachments": ["Charging"]
+        },
+        {
+            "name": "Mooh",
+            "attachments": ["Charging"]
+        },
+        {
+            "name": "Old_Lock",
+            "attachments": ["Lock"]
+        },
+        {
+            "name": "Windows_XP",
+            "attachments": ["Lock"]
+        },
+        {
+            "name": "Samsung",
+            "attachments": ["Notification"]
+        },
+        {
+            "name": "Discord",
+            "attachments": ["Notification"]
+        },
+        {
+            "name": "Taco_Bell",
+            "attachments": ["Notification", "Screenshot"]
+        },
+        {
+            "name": "Star_Wars_Blaster",
+            "attachments": ["Screenshot"]
+        },
+        {
+            "name": "Piano_Key",
+            "attachments": ["Key Click"]
+        },
+        {
+            "name": "Piano_Delete",
+            "attachments": ["Key Delete", "Key Modifier"]
+        },
+		{
+			"name": "Slip",
+			"attachments": ["Sent Message"]
+		},
+		{
+			"name": "Crash",
+			"attachments": ["Received Message"]
+		},
+        {
+            "name": "Coin",
+            "attachments": ["Payment Success"]
+        }
+	]
+}

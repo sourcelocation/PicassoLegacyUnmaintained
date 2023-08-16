@@ -1,0 +1,42 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Picasso";
+
+/* Bundle name */
+"CFBundleName" = "Picasso";
+
+/* (No Comment) */
+"Picasso Operation" = "Picasso Operation";
+
+/* (No Comment) */
+"FileSwitcherPro Item" = "FileSwitcherPro objekt";
+
+/* (No Comment) */
+"Icon Theme" = "Tema för ikoner";
+
+/* Privacy - Media Library Usage Description */
+"NSAppleMusicUsageDescription" = "Ge tillstånd till sandlåda (behövs för att modifiera bland annat lösenordsnycklar)";
+
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Picasso körs i bakgrunden för att se till att alla tweaks fungerar. Vanligtvis stoppas sådana appar efter ett tag av iOS. Men Picasso lurar iOS genom att begära platsdata vilket tillåter mycket längre sessioner. Data lagras aldrig någonstans, bara hämtas.";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Picasso körs i bakgrunden för att se till att alla tweaks fungerar. Vanligtvis stoppas sådana appar efter ett tag av iOS. Men Picasso lurar iOS genom att begära platsdata vilket tillåter mycket längre sessioner. Data lagras aldrig någonstans, bara hämtas.";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Bilder";
+
+/* (No Comment) */
+"OpenType font" = "OpenType-teckensnitt";
+
+/* (No Comment) */
+"Passcode Theme File" = "Temafil för lösenord";
+
+/* (No Comment) */
+"Theme Archive File" = "Arkiv för tema";
+
+/* (No Comment) */
+"TrueType collection" = "TrueType-samling";
+
+/* (No Comment) */
+"TrueType font" = "TrueType-teckensnitt";
+

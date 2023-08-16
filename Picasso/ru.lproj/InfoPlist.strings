@@ -1,0 +1,42 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Picasso";
+
+/* Bundle name */
+"CFBundleName" = "Picasso";
+
+/* (No Comment) */
+"Picasso Operation" = "Операция Picasso";
+
+/* (No Comment) */
+"FileSwitcherPro Item" = "Элемент FIleSwitcherPro";
+
+/* (No Comment) */
+"Icon Theme" = "Тема иконки";
+
+/* Privacy - Media Library Usage Description */
+"NSAppleMusicUsageDescription" = "Для использования некоторых твиков (например, темы клавиш код-пароля) требуется разрешение на выход из Sandbox.";
+
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Picasso работает в фоновом режиме, чтобы поддерживать работу твиков. Обычно iOS убивает фоновые процессы спустя некоторое время, но Picasso может периодически запрашивать данные о геолокации, что позволяет обойти это ограничение. Эти данные нигде не хранятся и никуда не отправляются.";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Picasso работает в фоновом режиме, чтобы поддерживать работу твиков. Обычно iOS убивает фоновые процессы спустя некоторое время, но Picasso может периодически запрашивать данные о геолокации, что позволяет обойти это ограничение. Эти данные нигде не хранятся и никуда не отправляются.";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Фото";
+
+/* (No Comment) */
+"OpenType font" = "Шрифт OpenType";
+
+/* (No Comment) */
+"Passcode Theme File" = "Файл с темой клавиш";
+
+/* (No Comment) */
+"Theme Archive File" = "Архив с темой";
+
+/* (No Comment) */
+"TrueType collection" = "Коллекция TrueType";
+
+/* (No Comment) */
+"TrueType font" = "Шрифт TrueType";
+

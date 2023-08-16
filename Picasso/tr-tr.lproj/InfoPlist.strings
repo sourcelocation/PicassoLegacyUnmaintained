@@ -1,0 +1,24 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Picasso";
+
+/* Bundle name */
+"CFBundleName" = "Picasso";
+
+/* Privacy - Media Library Usage Description */
+"NSAppleMusicUsageDescription" = "Sandbox'a erişim için izin verin (Parola tuşları + bazı özellikler için gereklidir)";
+
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Picasso tweaklerin etkin olduğundan emin olmak için arka planda çalışır.  iOS belirli zaman sonra uygulamayı kapatır fakat Picasso iOS'u konum isteyerek kandırır bu sayede arka planda daha uzun süre çalışmaktadır. Verileriniz asla hiçbir yerde depolanmaz, sadece alınıyor.";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Picasso tweaklerin etkin olduğundan emin olmak için arka planda çalışır.\niOS belirli zaman sonra uygulamayı kapatır fakat Picasso iOS'u konum isteyerek kandırır bu sayede arka planda daha uzun süre çalışmaktadır. Verileriniz asla hiçbir yerde depolanmaz, sadece alınıyor.";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Fotoğraflar";
+
+/* (No Comment) */
+"Passcode Theme File" = "Parola Tema Dosyası";
+
+/* (No Comment) */
+"Theme Archive File" = "Tema Arşiv Dosyası";
+

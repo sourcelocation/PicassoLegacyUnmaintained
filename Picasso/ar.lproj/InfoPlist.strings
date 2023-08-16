@@ -1,0 +1,42 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Picasso";
+
+/* Bundle name */
+"CFBundleName" = "Picasso";
+
+/* (No Comment) */
+"Picasso Operation" = "عملية Picasso";
+
+/* (No Comment) */
+"FileSwitcherPro Item" = "FileSwitcherPro عنصر";
+
+/* (No Comment) */
+"Icon Theme" = "أيقونة السمة";
+
+/* Privacy - Media Library Usage Description */
+"NSAppleMusicUsageDescription" = "منح الإذن لصندوق الرمل (يحتاجه لمفاتيح رمز المرور + بعض الخيارات الأخرى)";
+
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "يتم تشغيل Picasso في الخلفية للتأكد من استمرار تطبيق الأدوات. عادة ما يقتل iOS مثل هذه التطبيقات بعد فترة من الزمن. لكن Picasso يخدع iOS من خلال طلب بيانات الموقع وبالتالي السماح بجلسات أطول بكثير. لا يتم تخزين البيانات في أي مكان، يتم جلبها فقط.";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "يتم تشغيل Picasso في الخلفية للتأكد من استمرار تطبيق الأدوات. عادة ما يقتل iOS مثل هذه التطبيقات بعد فترة من الزمن. لكن Picasso يخدع iOS من خلال طلب بيانات الموقع وبالتالي السماح بجلسات أطول بكثير. لا يتم تخزين البيانات في أي مكان، يتم جلبها فقط.";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "الصور";
+
+/* (No Comment) */
+"OpenType font" = "خط أوبن تايب";
+
+/* (No Comment) */
+"Passcode Theme File" = "ملف سمة رمز المرور";
+
+/* (No Comment) */
+"Theme Archive File" = "ملف أرشيف السمة";
+
+/* (No Comment) */
+"TrueType collection" = "مجموعة TrueType";
+
+/* (No Comment) */
+"TrueType font" = "خط TrueType";
+
